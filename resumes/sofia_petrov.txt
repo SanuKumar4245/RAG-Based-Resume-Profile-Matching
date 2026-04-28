@@ -1,0 +1,49 @@
+Sofia Petrov
+sofia.petrov@email.com | +1-617-555-0606 | Boston, MA | scholar.google.com/sofia-petrov | github.com/sofiapetrov
+
+SUMMARY
+NLP Researcher and Engineer with 6 years of experience in natural language processing, large language models, and conversational AI. PhD-trained researcher who bridges the gap between cutting-edge research and production systems. Expert in HuggingFace Transformers, BERT, and fine-tuning LLMs.
+
+EXPERIENCE
+Senior NLP Engineer — Nuance Communications (Microsoft), Burlington, MA (2021 – Present)
+- Led development of domain-adapted LLMs for healthcare documentation, reducing physician documentation time by 35%
+- Fine-tuned BERT and RoBERTa models for medical entity recognition (F1 score: 0.94)
+- Built production NLP pipeline using spaCy and HuggingFace Transformers serving 3M clinical notes/month
+- Implemented retrieval-augmented generation (RAG) system using FAISS and GPT-4 API for clinical Q&A
+- Published 2 papers at EMNLP 2022 and ACL 2023 on domain adaptation of transformer models
+
+NLP Research Scientist — MIT Lincoln Laboratory, Lexington, MA (2019 – 2021)
+- Researched multi-lingual NLP models for low-resource languages using cross-lingual transfer learning
+- Developed text classification pipelines with NLTK, spaCy, and PyTorch achieving state-of-the-art results
+- Collaborated with DARPA-funded research teams on information extraction from unstructured documents
+
+Research Assistant — MIT CSAIL, Cambridge, MA (2016 – 2019)
+- Contributed to open-source NLP libraries and reproduced results from 15+ papers
+- Built annotated dataset of 50K multilingual text samples for named entity recognition tasks
+
+SKILLS
+Languages: Python, R, Bash, Java
+NLP/ML: HuggingFace Transformers, spaCy, NLTK, BERT, GPT, LLaMA, LangChain, RAG
+Deep Learning: PyTorch, TensorFlow, JAX
+Data Science: Pandas, NumPy, scikit-learn, Matplotlib
+Cloud: AWS, GCP
+Tools: FAISS, Pinecone, Git, Docker, Jupyter, Weights & Biases
+
+EDUCATION
+Ph.D. in Computer Science (NLP)
+Massachusetts Institute of Technology (MIT), 2019
+
+M.S. in Computational Linguistics
+Boston University, 2016
+
+B.S. in Applied Mathematics
+Moscow State University, Russia, 2014
+
+PROJECTS
+MultilingualNER: Open-source named entity recognition system for 30+ languages, 1,500+ GitHub stars.
+Clinical BERT: Fine-tuned BERT model for clinical text, achieving SOTA on i2b2 2010 NLP challenge.
+
+CERTIFICATIONS
+Deep Learning Specialization — deeplearning.ai (2019)
+HuggingFace NLP Course (2021)
+

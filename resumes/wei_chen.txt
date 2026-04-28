@@ -1,0 +1,48 @@
+Wei Chen
+wei.chen@email.com | +1-650-555-3737 | Mountain View, CA | github.com/weichen-eng | linkedin.com/in/weichen-eng
+
+SUMMARY
+Senior Software Engineer with 8 years of experience building distributed systems and developer infrastructure at Google scale. Expert in Go, C++, and distributed systems design. Built systems processing petabytes of data daily and reducing developer build times by 60%.
+
+EXPERIENCE
+Staff Software Engineer — Google, Mountain View, CA (2019 – Present)
+- Tech lead for Google's internal build system (Bazel-based) serving 30,000+ engineers globally
+- Designed and implemented distributed caching layer in Go reducing P50 build time from 45s to 8s
+- Built remote execution service handling 5M build tasks/day with 99.9% reliability
+- Optimized C++ compilation parallelism achieving 10x speedup on large codebases
+- Mentored team of 7 engineers and established team-wide design review process
+
+Software Engineer — Facebook (Meta), Menlo Park, CA (2017 – 2019)
+- Developed high-performance data ingestion service in C++ processing 2PB of user data daily
+- Built distributed caching infrastructure using Memcached and CRDT-based eventual consistency
+- Implemented load balancing algorithm reducing cache hotspot issues by 80%
+- Contributed to open-source Folly C++ library with 3 accepted PRs
+
+Software Engineer — Apple, Cupertino, CA (2016 – 2017)
+- Developed backend services for iCloud in Python and Go
+- Built automated testing infrastructure for distributed storage systems
+
+SKILLS
+Languages: Go, C++, Python, SQL, Bash, Java
+Systems: Distributed systems, consensus (Raft/Paxos), consistent hashing, gRPC, Protobuf
+Infrastructure: Kubernetes, Docker, Terraform, Prometheus, Grafana, CI/CD
+Databases: Bigtable, Spanner, PostgreSQL, MySQL, Redis, Cassandra
+Cloud: GCP (expert), AWS, Azure
+Build Systems: Bazel, CMake, Gradle, Make
+
+EDUCATION
+M.S. in Computer Science (Distributed Systems)
+MIT, 2016
+
+B.S. in Computer Science
+Peking University, China, 2014
+
+PROJECTS
+Distributed Build Cache: Open-source caching server compatible with Bazel Remote Execution API.
+Go gRPC Middleware: Collection of interceptors for logging, tracing, and rate limiting in Go.
+
+CERTIFICATIONS
+Google Cloud Professional Cloud Architect (2022)
+Certified Kubernetes Administrator (CKA), 2021
+Go Programming Fundamentals – O'Reilly (2020)
+

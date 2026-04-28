@@ -1,0 +1,49 @@
+Kevin Park
+kevin.park@email.com | +1-650-555-3333 | Sunnyvale, CA | github.com/kevinpark-dev | linkedin.com/in/kevinpark
+
+SUMMARY
+Senior Python Backend Developer with 7 years of experience building high-throughput APIs, microservices, and data processing systems. Expert in FastAPI, Django, and async Python. Designed backend systems handling 10M+ requests/day with sub-100ms latency.
+
+EXPERIENCE
+Staff Software Engineer — Google, Sunnyvale, CA (2021 – Present)
+- Designed and implemented internal ML feature serving platform in Python (FastAPI + gRPC) serving 5M QPS
+- Built asynchronous data processing pipeline using Python asyncio and Redis Streams
+- Led API versioning strategy and developer experience improvements for 200+ internal API clients
+- Implemented distributed tracing with OpenTelemetry reducing debugging time by 60%
+- Mentored 8 engineers and ran weekly design review sessions
+
+Senior Software Engineer — Stripe, San Francisco, CA (2019 – 2021)
+- Built payment fraud detection API in Python/FastAPI processing $100B+ in annual transactions
+- Developed webhooks delivery system with guaranteed-at-least-once delivery using Redis and Celery
+- Designed idempotency key implementation preventing duplicate charges with 99.999% reliability
+- Contributed to internal Python SDK generator from OpenAPI specs
+
+Python Developer — Dropbox, San Francisco, CA (2017 – 2019)
+- Built backend file sync APIs using Django REST Framework and PostgreSQL
+- Implemented background job processing with Celery and RabbitMQ for file processing tasks
+- Optimized ORM queries reducing database CPU usage by 35%
+
+SKILLS
+Languages: Python, Go, SQL, Bash
+Frameworks: FastAPI, Django, Django REST Framework, Flask, aiohttp, gRPC
+Async: asyncio, aioredis, Celery, RabbitMQ, Redis Streams, Kafka
+Databases: PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch, Cassandra
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions
+Testing: pytest, unittest, hypothesis, testcontainers
+
+EDUCATION
+M.S. in Computer Science
+Stanford University, 2017
+
+B.S. in Computer Science
+University of California, Davis, 2015
+
+PROJECTS
+async-retry: Zero-dependency Python library for async retry with exponential backoff, 600+ PyPI monthly downloads.
+FastAPI Admin: Admin dashboard generator for FastAPI applications with CRUD and authentication.
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate (2020)
+Google Professional Cloud Developer (2022)
+Python Institute PCEP and PCAP Certifications (2019)
+

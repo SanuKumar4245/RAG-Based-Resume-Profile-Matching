@@ -1,0 +1,44 @@
+Mei Zhang
+mei.zhang@email.com | +1-425-555-2121 | Bellevue, WA | github.com/meizhang-qa | linkedin.com/in/meizhang-qa
+
+SUMMARY
+QA Automation Engineer with 5 years of experience designing and implementing test automation frameworks. Expert in Selenium WebDriver, pytest, and CI/CD integration. Built automation infrastructure reducing regression testing time from 8 hours to 45 minutes at a major e-commerce company.
+
+EXPERIENCE
+Senior QA Automation Engineer — Microsoft, Redmond, WA (2021 – Present)
+- Led test automation strategy for Microsoft Teams quality assurance team of 8 engineers
+- Built end-to-end Selenium Python framework with pytest fixtures and parallel execution (pytest-xdist)
+- Implemented API testing suite using requests library and Postman/Newman with 500+ test cases
+- Integrated automation suite into Azure DevOps CI/CD pipelines with Jenkins, achieving 97% CI coverage
+- Developed visual regression testing using Percy.io integrated with Selenium
+
+QA Automation Engineer — Nordstrom, Seattle, WA (2019 – 2021)
+- Built REST API testing framework in Java with RestAssured and TestNG for e-commerce APIs
+- Automated mobile testing using Appium for iOS and Android apps with Page Object Model
+- Created performance testing scripts using JMeter simulating 50K concurrent users
+- Maintained Dockerized test environments for consistent cross-browser test execution
+
+QA Engineer — Redfin, Seattle, WA (2018 – 2019)
+- Performed manual and exploratory testing for web and mobile applications
+- Wrote Selenium test cases in Python improving test coverage from 40% to 75%
+- Contributed to BDD framework using Cucumber and Gherkin syntax
+
+SKILLS
+Testing Frameworks: Selenium, pytest, TestNG, JUnit, Appium, Cypress
+Languages: Python, Java, JavaScript
+API Testing: Postman, RestAssured, requests, pytest-httpx
+Performance: JMeter, Locust, Gatling
+CI/CD: Jenkins, GitHub Actions, Azure DevOps, GitLab CI
+Tools: JIRA, TestRail, Allure Report, Docker, Git
+Other: Agile, BDD (Cucumber), Page Object Model, Data-driven testing
+
+EDUCATION
+B.S. in Computer Science
+University of Washington, 2018
+
+CERTIFICATIONS
+ISTQB Certified Tester – Foundation Level (2019)
+ISTQB Advanced Level – Test Automation Engineer (2021)
+Selenium WebDriver with Python – Udemy (2019)
+AWS Certified Developer – Associate (2022)
+

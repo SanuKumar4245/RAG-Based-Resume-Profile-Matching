@@ -1,0 +1,47 @@
+Sarah-Jane Cole
+sarah.cole@email.com | +1-312-555-3232 | Chicago, IL | linkedin.com/in/sarahjanecole-agile
+
+SUMMARY
+Certified Agile Coach and Scrum Master with 7 years of experience driving Agile transformation across enterprise organizations. SAFe Program Consultant, PMI-ACP, and CSM certified. Successfully coached 15+ teams at companies including Boeing and Motorola, improving delivery velocity by 45% and employee satisfaction scores by 30%.
+
+EXPERIENCE
+Senior Agile Coach — Motorola Solutions, Chicago, IL (2020 – Present)
+- Coached 8 development teams (80+ engineers) on Agile and SAFe framework adoption
+- Facilitated Quarterly PI Planning events for 300+ stakeholders across 12 teams
+- Established metrics and OKR framework tracking sprint velocity, quality metrics, and team health
+- Introduced Kanban practices for operations teams reducing cycle time by 55%
+- Trainer for internal Agile training program reaching 500+ employees across the organization
+
+Scrum Master / Agile Coach — Boeing, Chicago, IL (2018 – 2020)
+- Guided 4 cross-functional Scrum teams through Agile transformation from waterfall
+- Facilitated sprint ceremonies: planning, daily standups, reviews, and retrospectives
+- Resolved impediments and coached teams on Confluence and JIRA workflow optimization
+- Implemented JIRA dashboards for release tracking and burndown visibility
+
+Project Manager — Deloitte, Chicago, IL (2016 – 2018)
+- Managed software delivery projects using hybrid Agile-waterfall approaches
+- Maintained project plans in MS Project and tracked risks, issues, and dependencies
+- Facilitated stakeholder workshops and status reporting for C-suite clients
+
+SKILLS
+Agile: Scrum, Kanban, SAFe (Scaled Agile Framework), LeSS, XP, Lean
+Certifications: SAFe SPC, CSM, CSPO, PMI-ACP, PMP
+Tools: JIRA, Confluence, Azure DevOps, Miro, Trello, MS Project, Rally
+Coaching: Team facilitation, conflict resolution, retrospective design, executive coaching
+Metrics: Velocity, throughput, cycle time, DORA metrics, team health checks
+Communication: Executive presentations, workshop facilitation, training delivery
+
+EDUCATION
+MBA in Organizational Development
+Kellogg School of Management, Northwestern University, 2016
+
+B.A. in Business Administration
+University of Illinois Chicago, 2014
+
+CERTIFICATIONS
+SAFe Program Consultant (SPC 5.1), 2021
+Certified Scrum Master (CSM), 2017
+Certified Scrum Product Owner (CSPO), 2018
+PMI Agile Certified Practitioner (PMI-ACP), 2019
+Project Management Professional (PMP), 2017
+

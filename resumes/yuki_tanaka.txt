@@ -1,0 +1,47 @@
+Yuki Tanaka
+yuki.tanaka@email.com | +1-408-555-1414 | Santa Clara, CA | github.com/yukitanaka-cv | linkedin.com/in/yukitanaka
+
+SUMMARY
+Computer Vision Engineer with 4 years of experience developing real-time vision systems for autonomous driving, robotics, and industrial inspection. Expert in OpenCV, YOLO, TensorFlow, and C++ optimization. Deployed models achieving 35ms inference latency on edge hardware.
+
+EXPERIENCE
+Computer Vision Engineer — NVIDIA, Santa Clara, CA (2022 – Present)
+- Developed pedestrian detection models using YOLOv8 achieving 94.2% mAP on custom automotive dataset
+- Optimized TensorRT inference pipelines reducing latency from 120ms to 28ms on Jetson AGX
+- Built stereo vision depth estimation system for autonomous vehicle perception stack using OpenCV and C++
+- Implemented data augmentation pipeline in Python using Albumentations library, improving model robustness by 18%
+- Led evaluation of 3D point cloud segmentation for LiDAR-camera fusion
+
+Computer Vision Engineer — Symbotic, Wilmington, MA (2021 – 2022)
+- Built real-time object detection and tracking for warehouse robotics using YOLO and DeepSORT
+- Developed anomaly detection system for product quality control achieving 99.1% precision
+- Optimized OpenCV image processing pipeline for 4K video streams at 60 FPS
+- Integrated GStreamer pipeline for efficient video capture and processing
+
+Research Engineer — Stanford AI Lab, Palo Alto, CA (2020 – 2021)
+- Researched novel attention mechanisms for video object segmentation
+- Built benchmark evaluation framework for comparing SOTA segmentation models
+
+SKILLS
+Computer Vision: OpenCV, YOLO (v5/v7/v8), Detectron2, DeepSORT, GStreamer
+Deep Learning: TensorFlow, PyTorch, TensorRT, ONNX, Keras
+Languages: Python, C++, CUDA (basic)
+Tools: LabelImg, CVAT, Weights & Biases, Jupyter, Docker
+Cloud/Hardware: AWS, Jetson AGX, Raspberry Pi
+Other: Git, CMake, Linux, Agile
+
+EDUCATION
+M.S. in Electrical Engineering (Signal Processing & Machine Learning)
+Stanford University, 2020
+
+B.S. in Engineering
+Waseda University, Tokyo, Japan, 2018
+
+PROJECTS
+Real-time Face Anti-Spoofing: Liveness detection system using 3D depth maps with 99.3% accuracy.
+License Plate OCR: EasyOCR + YOLO pipeline for parking management with 97.8% read accuracy.
+
+CERTIFICATIONS
+NVIDIA Deep Learning Institute – Computer Vision (2021)
+PyTorch Developer Certificate (2022)
+

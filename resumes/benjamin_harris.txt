@@ -1,0 +1,44 @@
+Benjamin Harris
+benjamin.harris@email.com | +1-212-555-2727 | New York, NY | linkedin.com/in/benjaminharris-quant
+
+SUMMARY
+Quantitative Developer with 8 years of experience building high-performance trading systems, risk models, and quantitative analytics platforms at top-tier investment banks. Expert in Python, C++, and R with deep knowledge of QuantLib, fixed income derivatives, and statistical arbitrage strategies.
+
+EXPERIENCE
+Vice President, Quantitative Developer — Goldman Sachs, New York, NY (2020 – Present)
+- Built ultra-low latency options pricing engine in C++ (sub-microsecond pricing for 1M options/second)
+- Developed Python-based risk analytics platform using QuantLib for interest rate derivatives portfolio
+- Implemented alpha signal research pipeline in R and Python for systematic equity strategies
+- Led migration of legacy pricing models from MATLAB to Python, reducing model run time by 75%
+- Collaborated with quant researchers to productionize 10+ novel trading signals generating $50M+ P&L
+
+Quantitative Analyst — J.P. Morgan, New York, NY (2018 – 2020)
+- Built Monte Carlo simulation framework in Python (NumPy, Numba) for credit risk stress testing
+- Developed statistical arbitrage backtesting framework achieving Sharpe ratio of 2.1 on out-of-sample data
+- Created automated reporting system for daily risk metrics with Python and SQL queries against Oracle
+- Implemented machine learning models (scikit-learn, XGBoost) for default probability prediction
+
+Junior Quant Developer — Barclays Capital, New York, NY (2016 – 2018)
+- Developed fixed income valuation models in QuantLib and Python
+- Built time-series analysis pipelines using pandas and statsmodels for factor model analysis
+
+SKILLS
+Languages: Python, C++, R, SQL, MATLAB
+Quant Libraries: QuantLib, NumPy, Pandas, scipy, statsmodels, scikit-learn
+Finance: Options pricing (Black-Scholes, Heston), Fixed income, Credit risk, VaR, Greeks
+High Performance: Cython, Numba, CUDA basics, parallel computing, memory optimization
+Data: Bloomberg Terminal, Reuters Eikon, SQL Server, kdb+/q, PostgreSQL
+Tools: Git, JIRA, Bloomberg API, FactSet
+
+EDUCATION
+M.S. in Financial Engineering
+Cornell University, 2016
+
+B.S. in Mathematics and Statistics
+University of Cambridge, UK, 2014
+
+CERTIFICATIONS
+Chartered Financial Analyst (CFA) Level III (2020)
+Financial Risk Manager (FRM), 2019
+Certificate in Quantitative Finance (CQF), 2017
+

@@ -1,0 +1,48 @@
+Grace Park
+grace.park@email.com | +1-310-555-4242 | Los Angeles, CA | github.com/gracepark-ds | linkedin.com/in/graceparkds
+
+SUMMARY
+Senior Data Scientist with 6 years of experience driving impactful decisions at entertainment, media, and streaming companies. Expert in recommendation systems, experimentation, and causal inference. Developed algorithms reaching 200M+ users and improving content discovery metrics by 35%.
+
+EXPERIENCE
+Senior Data Scientist — Netflix, Los Angeles, CA (2021 – Present)
+- Developed next-generation content recommendation algorithm using two-tower neural networks in PyTorch
+- Built offline evaluation framework comparing 20+ recommendation strategies using interleaving experiments
+- Led causal inference analysis for pricing experiments using difference-in-differences methodology
+- Designed and ran 40+ A/B tests with rigorous statistical analysis (power analysis, CUPED variance reduction)
+- Collaborated with engineering to deploy models serving 230M subscribers in real-time (latency < 100ms)
+
+Data Scientist — Hulu, Santa Monica, CA (2019 – 2021)
+- Built subscriber churn prediction model (AUC 0.88) identifying at-risk subscribers 2 months in advance
+- Developed cohort retention analysis framework using SQL and Python for 45M subscriber base
+- Created ensemble model combining collaborative filtering and content-based approaches for show recommendations
+- Automated report generation pipeline with Python and Airflow reducing reporting effort by 70%
+
+Junior Data Scientist — Warner Bros. Discovery, Burbank, CA (2018 – 2019)
+- Analyzed streaming video quality metrics and their correlation with user satisfaction scores
+- Built regression models predicting trailer view-to-watch conversion rates in R and Python
+
+SKILLS
+ML: Recommendation systems (collaborative filtering, neural CF, two-tower), Deep learning, NLP, Causal inference
+Frameworks: PyTorch, TensorFlow, scikit-learn, XGBoost, HuggingFace
+Statistics: A/B testing, causal inference, Bayesian statistics, survival analysis, time series
+Languages: Python, R, SQL, Scala (basic)
+Data: Apache Spark, Hive, Presto, Pandas, NumPy, Airflow, Snowflake
+Cloud: AWS (SageMaker, EMR, Redshift), GCP
+
+EDUCATION
+M.S. in Statistics and Machine Learning
+UCLA, 2018
+
+B.S. in Applied Mathematics
+UC Santa Barbara, 2016
+
+PROJECTS
+RecSys Benchmark: Benchmark framework for evaluating recommendation algorithms on public datasets.
+CUPED Implementation: Open-source implementation of CUPED variance reduction for A/B tests.
+
+CERTIFICATIONS
+Coursera: Recommender Systems Specialization (2020)
+Databricks Certified ML Professional (2021)
+AWS Machine Learning – Specialty (2022)
+

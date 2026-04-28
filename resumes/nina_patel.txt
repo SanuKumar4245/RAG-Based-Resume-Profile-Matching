@@ -1,0 +1,44 @@
+Nina Patel
+nina.patel@email.com | +1-415-555-1212 | San Francisco, CA | linkedin.com/in/ninapatel-pm
+
+SUMMARY
+Product Manager with 8 years of experience leading cross-functional teams to deliver data-driven digital products. Proven ability to define product strategy, manage roadmaps, and ship features that generate measurable business impact. MBA holder with strong technical background in SQL and A/B testing.
+
+EXPERIENCE
+Senior Product Manager — Salesforce, San Francisco, CA (2020 – Present)
+- Owned product roadmap for CRM Analytics platform with $50M ARR, managing backlog of 200+ user stories
+- Launched 4 major features increasing user retention by 23% and reducing churn by 18%
+- Partnered with data science team on ML-powered lead scoring, contributing to $12M pipeline growth
+- Led Agile ceremonies for teams of 15 engineers and 3 designers
+- Defined and tracked KPIs: DAU, NPS, time-to-value using SQL/Looker dashboards
+
+Product Manager — Airbnb, San Francisco, CA (2018 – 2020)
+- Managed guest review and trust product, improving host fill rates by 15%
+- Designed and executed 30+ A/B tests to optimize booking funnel, increasing conversion by 8%
+- Used SQL and Python for data analysis to inform product prioritization decisions
+- Collaborated with engineering and design teams using JIRA and Confluence
+
+Associate Product Manager — LinkedIn, Sunnyvale, CA (2016 – 2018)
+- Led premium subscriber onboarding feature development, reducing time-to-first-value by 40%
+- Conducted user interviews, surveys, and usability testing for qualification research
+
+SKILLS
+Product: Product Strategy, Roadmapping, Agile, Scrum, JIRA, Confluence, A/B Testing, OKRs
+Data: SQL, Python, Tableau, Power BI, Google Analytics, Looker, Excel
+Communication: Stakeholder management, executive presentations, user research
+Technical Knowledge: APIs, data pipelines, ML concepts, system architecture awareness
+Other: Figma, Miro, Notion, PMP, SAFe
+
+EDUCATION
+MBA in Technology Management
+Haas School of Business, UC Berkeley, 2016
+
+B.S. in Computer Science
+Georgia Institute of Technology, 2014
+
+CERTIFICATIONS
+Pragmatic Marketing Certified – Level 4 (2021)
+Certified Scrum Product Owner (CSPO), 2019
+Project Management Professional (PMP), 2018
+Google Analytics Individual Qualification (2019)
+

@@ -1,0 +1,47 @@
+Marcus Chen
+marcus.chen@email.com | +1-408-555-0505 | San Jose, CA | github.com/marcuschen | linkedin.com/in/marcuschen-dev
+
+SUMMARY
+Backend Engineer with 4 years of experience building high-performance, fault-tolerant microservices. Specializes in Java/Spring Boot ecosystems, event-driven architectures with Kafka, and distributed systems design. Delivered systems handling 100K+ requests per second.
+
+EXPERIENCE
+Software Engineer II — Cisco Systems, San Jose, CA (2022 – Present)
+- Developed network configuration management microservices using Java 17 and Spring Boot
+- Built event-driven data synchronization pipeline using Apache Kafka handling 500K messages/day
+- Designed RESTful APIs consumed by 20+ internal teams, enforcing OpenAPI 3.0 specifications
+- Optimized MySQL query performance through indexing and query rewriting, reducing P99 latency from 800ms to 120ms
+- Implemented distributed caching with Redis, reducing database load by 40%
+
+Software Engineer — Intuit, Mountain View, CA (2021 – 2022)
+- Contributed to payment processing service (Java, Spring Boot) processing $2B in annual transactions
+- Implemented circuit breaker patterns using Resilience4j for graceful degradation
+- Wrote comprehensive unit and integration tests (90%+ code coverage) with JUnit 5 and Mockito
+- Participated in on-call rotation and resolved P1 incidents with average MTTR of 22 minutes
+
+Junior Software Engineer — PayScale, Seattle, WA (2020 – 2021)
+- Built data ingestion APIs using Spring MVC and RESTful design patterns
+- Migrated legacy SOAP services to modern REST APIs, reducing payload size by 60%
+- Worked in Agile teams with 2-week sprints and daily standups
+
+SKILLS
+Languages: Java, Python, SQL, Bash
+Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, JUnit 5, Mockito
+Messaging: Apache Kafka, RabbitMQ
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Cloud & DevOps: AWS (EC2, RDS, SQS, SNS), Docker, Kubernetes, CI/CD, Jenkins
+Tools: Maven, Gradle, Git, JIRA, IntelliJ IDEA
+Patterns: Microservices, Event-driven architecture, Circuit Breaker, CQRS
+
+EDUCATION
+B.S. in Computer Science
+San Jose State University, 2020
+
+PROJECTS
+Distributed Rate Limiter: Open-source Redis-based distributed rate limiter library for Spring Boot applications.
+Order Management System: Built a complete order processing system with Saga pattern and event sourcing.
+
+CERTIFICATIONS
+Spring Professional Certification (2022)
+AWS Certified Developer – Associate (2022)
+Oracle Certified Professional Java SE 11 (2021)
+

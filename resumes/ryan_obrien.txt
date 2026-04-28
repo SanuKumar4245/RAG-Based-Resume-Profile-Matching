@@ -1,0 +1,48 @@
+Ryan O'Brien
+ryan.obrien@email.com | +1-512-555-2020 | Austin, TX | github.com/robrien-systems | linkedin.com/in/ryanobrien-systems
+
+SUMMARY
+Systems Programmer with 9 years of experience in low-level software development for operating systems, embedded systems, and high-performance computing. Expert in C, C++, and Rust. Contributed to the Linux kernel and multiple safety-critical embedded systems projects.
+
+EXPERIENCE
+Principal Software Engineer — AMD, Austin, TX (2020 – Present)
+- Developed Linux kernel drivers for GPU compute workloads in C, contributing 15 patches to kernel mainline
+- Built high-performance memory allocator in C++ (RDMA-aware) achieving 2x throughput improvement
+- Designed RTOS drivers for custom AMD embedded processors using FreeRTOS and bare-metal C
+- Led Rust adoption initiative for safety-critical kernel components, authoring internal style guide
+- Mentored team of 6 engineers on systems programming best practices
+
+Senior Systems Engineer — Tesla, Austin, TX (2018 – 2020)
+- Developed autopilot firmware in C++ for vehicle control system with hard real-time constraints
+- Implemented CAN bus communication stack and diagnostic protocols (UDS, OBD-II)
+- Built safety-critical watchdog and fault management system certified to ISO 26262 ASIL-D
+- Optimized memory-constrained embedded code achieving 30% reduction in RAM footprint
+
+Embedded Software Engineer — National Instruments, Austin, TX (2015 – 2018)
+- Developed real-time measurement and control firmware using C and RTOS (VxWorks, FreeRTOS)
+- Created FPGA interface drivers using C++ and custom register access abstractions
+- Implemented I2C, SPI, UART, and Ethernet device drivers for custom hardware
+
+SKILLS
+Languages: C, C++, Rust, Python, Assembly (x86, ARM)
+Systems: Linux Kernel, Linux, RTOS (FreeRTOS, VxWorks), POSIX APIs
+Embedded: ARM Cortex-M/A, FPGA (Xilinx), SPI, I2C, UART, CAN bus, USB
+Tools: GDB, Valgrind, CMake, LLVM, Git, Perf, Wireshark, JTAG
+Security: MISRA C, Safety standards (ISO 26262, DO-178C)
+Other: Agile, Code review, Technical mentoring
+
+EDUCATION
+M.S. in Computer Engineering
+University of Texas at Austin, 2015
+
+B.S. in Electrical and Computer Engineering
+University College Dublin, Ireland, 2013
+
+PROJECTS
+Rust Memory Allocator: Lock-free memory allocator in Rust with jemalloc-style size classes for kernel use.
+Linux GPIO Driver: Contributed interrupt-driven GPIO driver for ARM SoC accepted into Linux mainline.
+
+CERTIFICATIONS
+Embedded Linux Development with Yocto (2020)
+Rust Programming Fundamentals – Rust Foundation (2021)
+

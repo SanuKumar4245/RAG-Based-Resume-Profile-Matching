@@ -1,0 +1,43 @@
+Helen Kowalski
+helen.kowalski@email.com | +1-312-555-2323 | Chicago, IL | linkedin.com/in/helenkowalski-dba
+
+SUMMARY
+Database Administrator with 8 years of experience managing Oracle, PostgreSQL, and MySQL environments across Fortune 500 enterprises. Specialist in performance tuning, high availability configuration, and database migration. Improved query performance by 70% and achieved 99.995% uptime across managed database fleet.
+
+EXPERIENCE
+Senior Database Administrator — Boeing, Chicago, IL (2020 – Present)
+- Manage Oracle 19c RAC clusters across 3 data centers supporting 50+ enterprise applications
+- Implemented Oracle Data Guard for zero data loss replication and automated failover
+- Reduced top 20 slow queries execution time by 65% through index optimization and query rewriting
+- Led migration of 12 Oracle databases to PostgreSQL 15 on AWS RDS with zero downtime strategy
+- Designed backup/recovery procedures achieving RPO < 15 minutes and RTO < 30 minutes
+
+Senior DBA — United Airlines, Chicago, IL (2018 – 2020)
+- Administered PostgreSQL and MySQL databases supporting reservation and operations systems
+- Implemented connection pooling with PgBouncer handling 50K concurrent connections
+- Created automated database health monitoring with Python and Prometheus alerting
+- Conducted quarterly performance baselines and capacity planning for 5TB database environment
+
+Database Administrator — Accenture, Chicago, IL (2016 – 2018)
+- Managed SQL Server databases for multiple banking clients
+- Implemented AlwaysOn Availability Groups for high availability and read scaling
+- Developed automated maintenance scripts in T-SQL and PowerShell for routine DBA tasks
+
+SKILLS
+Databases: Oracle 19c, PostgreSQL, MySQL, SQL Server, MongoDB, Redis
+Replication/HA: Oracle RAC, Oracle Data Guard, PostgreSQL Streaming Replication, MySQL Group Replication
+Languages: SQL (T-SQL, PL/SQL, PL/pgSQL), Python, Bash, PowerShell
+Cloud: AWS (RDS, Aurora, DynamoDB), Azure SQL, GCP Cloud SQL
+Tools: Oracle Enterprise Manager, pgAdmin, RMAN, Data Pump, Percona Toolkit
+Monitoring: Prometheus, Grafana, OEM, Nagios
+
+EDUCATION
+B.S. in Computer Information Systems
+DePaul University, Chicago, 2016
+
+CERTIFICATIONS
+Oracle Database Administrator Certified Professional (OCP 19c), 2021
+PostgreSQL Certified Professional – EDB (2020)
+AWS Certified Database – Specialty (2022)
+Microsoft SQL Server DBA (MCSE: Data Management), 2018
+

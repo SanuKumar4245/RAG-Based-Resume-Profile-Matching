@@ -1,0 +1,42 @@
+Anna Koroleva
+anna.koroleva@email.com | +1-425-555-2626 | Seattle, WA | annakoroleva.dev | linkedin.com/in/annakoroleva
+
+SUMMARY
+Technical Writer and Developer Advocate with 6 years of experience creating developer documentation, API references, and tutorials for cloud platforms and developer tools. Expert in docs-as-code methodologies, OpenAPI specifications, and Python scripting for documentation automation.
+
+EXPERIENCE
+Senior Technical Writer — Amazon Web Services (AWS), Seattle, WA (2020 – Present)
+- Own documentation for AWS Lambda, API Gateway, and Step Functions (30M+ page views/year)
+- Built automated API reference documentation generator from OpenAPI specs using Python and Sphinx
+- Reduced time-to-first-hello-world for new developers by 55% through restructured getting-started guides
+- Established docs-as-code workflow using Git, GitHub Actions, RST/Markdown, and Netlify
+- Collaborated with engineering teams on service launches, coordinating documentation for 8 major releases/year
+
+Technical Writer — Twilio, San Francisco, CA (2018 – 2020)
+- Wrote REST API documentation, code samples (Python, Node.js, Ruby), and tutorials
+- Created interactive API explorer documentation increasing developer engagement by 40%
+- Developed Python-based doc validation tools checking link integrity and code sample accuracy
+- Maintained documentation site using Hugo static site generator
+
+Junior Technical Writer — Tableau, Seattle, WA (2018)
+- Documented Tableau Prep and Server features for end-user guides
+- Created how-to videos and screenshots for product documentation
+
+SKILLS
+Writing: Technical documentation, API references (REST, GraphQL), tutorials, release notes
+Tools: Markdown, RST, Sphinx, MkDocs, Hugo, Confluence, Swagger/OpenAPI, Postman
+Languages: Python, Bash, JavaScript (basic), SQL
+Documentation: Docs-as-code, Git workflow, GitHub Actions, CI/CD for docs
+Design: Figma (wireframing), Adobe XD, Snagit
+
+EDUCATION
+M.A. in Technical Communication
+University of Washington, 2018
+
+B.S. in Linguistics and Computer Science
+Moscow State Linguistic University, Russia, 2015
+
+PROJECTS
+APIDocGen: Open-source Python tool for generating styled API documentation from OpenAPI 3.0 specs.
+Developer Survey Analysis: Annual State of Developer Docs survey with 2,000+ respondents.
+

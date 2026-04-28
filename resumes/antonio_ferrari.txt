@@ -1,0 +1,49 @@
+Antonio Ferrari
+antonio.ferrari@email.com | +1-206-555-3535 | Seattle, WA | linkedin.com/in/antonioferrari-cloud
+
+SUMMARY
+Cloud Solutions Architect with 9 years of experience specializing in Azure cloud transformation, microservices architecture, and enterprise integration patterns. Expert in Azure Kubernetes Service, Azure DevOps, and event-driven architecture. Led cloud migration projects for 8 Fortune 500 companies.
+
+EXPERIENCE
+Principal Cloud Solutions Architect — Microsoft, Redmond, WA (2020 – Present)
+- Advise enterprise clients on Azure architecture, security, and well-architected framework reviews
+- Designed reference architectures for AKS-based microservices platforms adopted by 50+ clients
+- Led cloud migration of 200-application portfolio for a healthcare company to Azure (AKS + Azure SQL)
+- Developed Azure Policy and Blueprints governance framework deployed across 5,000+ subscriptions
+- Built Azure DevOps CI/CD templates used by 2,000+ Microsoft consulting engagements
+
+Senior Cloud Architect — Avanade (Accenture + Microsoft JV), Seattle, WA (2018 – 2020)
+- Architected Azure event-driven platform using Azure Service Bus, Event Grid, and Azure Functions
+- Designed multi-region active-active Azure architecture with 99.99% SLA for insurance client
+- Implemented Azure API Management as enterprise API gateway for 150+ internal and external APIs
+- Led Terraform modules development for Azure landing zone infrastructure
+
+Cloud Engineer — Nordstrom, Seattle, WA (2015 – 2018)
+- Migrated e-commerce platform components to Azure App Service and Azure SQL Database
+- Built Azure DevOps pipelines for .NET application deployments
+- Implemented Azure Active Directory SSO for 60+ internal applications
+
+SKILLS
+Cloud: Azure (50+ services), AWS, GCP
+Architecture: Microservices, Event-driven, CQRS, Saga, API Gateway, Service Mesh
+Containers: Azure Kubernetes Service (AKS), Docker, Helm, Istio, Linkerd
+IaC: Terraform, ARM Templates, Bicep, Pulumi, Ansible
+DevOps: Azure DevOps, GitHub Actions, Jenkins, GitOps, ArgoCD
+Languages: Python, C#, Go, Bash, PowerShell
+Security: Azure AD, Zero Trust, RBAC, Azure Policy, Defender for Cloud
+
+EDUCATION
+M.S. in Software Engineering
+Politecnico di Milano, Italy, 2015
+
+B.S. in Computer Engineering
+University of Bologna, Italy, 2013
+
+CERTIFICATIONS
+Azure Solutions Architect Expert (AZ-305), 2022
+Azure DevOps Engineer Expert (AZ-400), 2021
+Azure Kubernetes Service Architect (2022)
+Certified Kubernetes Administrator (CKA), 2020
+AWS Certified Solutions Architect – Professional (2021)
+Google Professional Cloud Architect (2022)
+

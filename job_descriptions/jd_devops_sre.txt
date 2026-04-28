@@ -1,0 +1,43 @@
+DevOps / Site Reliability Engineer
+
+We are hiring a DevOps/SRE Engineer to build and maintain the infrastructure powering our cloud-native platform serving millions of users worldwide.
+
+ROLE SUMMARY
+You will work at the intersection of software engineering and operations — designing reliable, scalable, and secure infrastructure, building automation tools, and ensuring our systems achieve industry-leading availability. You will own SLOs, on-call processes, and infrastructure as code.
+
+RESPONSIBILITIES
+- Design, build, and maintain Kubernetes-based infrastructure across multiple cloud regions
+- Build and improve CI/CD pipelines enabling fast, safe deployments for 100+ engineers
+- Define and enforce SLOs/SLAs; lead incident response and blameless post-mortems
+- Implement infrastructure as code using Terraform and Ansible
+- Build monitoring, alerting, and observability platforms (Prometheus, Grafana, ELK)
+- Automate toil through scripting in Python, Go, or Bash
+- Collaborate with engineers to design reliable, observable microservices
+- Implement security best practices across cloud infrastructure
+
+REQUIRED SKILLS
+- 5+ years of DevOps, SRE, or infrastructure engineering experience
+- Expert level Kubernetes administration (RBAC, networking, storage, multi-cluster)
+- Strong experience with Terraform for cloud infrastructure provisioning
+- Hands-on experience with AWS, GCP, or Azure (at least one cloud expert-level)
+- Proficiency with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or ArgoCD)
+- Experience with monitoring stacks: Prometheus, Grafana, Alertmanager
+- Strong scripting skills in Python, Go, or Bash for automation
+- Linux system administration experience
+
+PREFERRED SKILLS
+- Certified Kubernetes Administrator (CKA) or equivalent
+- Experience with GitOps workflows (ArgoCD, FluxCD)
+- Knowledge of service mesh technologies (Istio, Linkerd)
+- Experience with chaos engineering tools (Chaos Monkey, LitmusChaos)
+- AWS/GCP/Azure professional-level certifications
+- Experience with eBPF-based observability tools
+- Go development experience for building internal tooling
+
+EDUCATION
+- B.S. in Computer Science, Engineering, or equivalent experience
+- Certifications in cloud or Kubernetes highly valued
+
+COMPENSATION
+$160,000 – $230,000 base salary + equity + benefits
+

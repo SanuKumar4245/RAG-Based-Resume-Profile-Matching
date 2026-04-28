@@ -1,0 +1,48 @@
+Priscilla Adams
+priscilla.adams@email.com | +1-617-555-3838 | Boston, MA | github.com/padams-ds | linkedin.com/in/priscillaadams-ds
+
+SUMMARY
+Senior Data Scientist with 7 years of experience leading data science initiatives in healthcare, fintech, and e-commerce domains. Expert in machine learning model development, experimentation design, and translating research into production systems. PhD in Statistics with 8 peer-reviewed publications.
+
+EXPERIENCE
+Lead Data Scientist — Aetna (CVS Health), Hartford, CT (2021 – Present)
+- Led team of 6 data scientists building clinical ML models for 33M member population
+- Developed patient risk stratification model using gradient boosting (AUC 0.91) reducing avoidable hospitalizations by 18%
+- Implemented explainable AI framework using SHAP and LIME for regulatory compliance
+- Built automated feature engineering pipeline handling 500+ clinical features from EHR data
+- Designed A/B testing framework for clinical intervention programs measuring outcomes at 90-day horizon
+
+Senior Data Scientist — American Express, New York, NY (2018 – 2021)
+- Built deep learning fraud detection model (PyTorch) reducing false positives by 32% while maintaining 99% recall
+- Developed causal inference framework for marketing campaign attribution using DoWhy and CausalML
+- Led NLP project for cardholder complaint classification achieving 94% accuracy with BERT fine-tuning
+- Designed experimentation platform running 50+ concurrent A/B tests across 10M+ cardholders
+
+Data Scientist — Wayfair, Boston, MA (2017 – 2018)
+- Built product recommendation system using collaborative filtering and matrix factorization (SVD)
+- Developed demand forecasting models using Prophet and LSTM networks
+- Analyzed customer lifetime value using survival analysis and Bayesian approaches
+
+SKILLS
+ML: Gradient boosting (XGBoost, LightGBM), Deep Learning (PyTorch, TensorFlow), scikit-learn, Causal Inference
+NLP: BERT, HuggingFace, spaCy, NLTK, text classification, NER
+Statistics: Bayesian methods, A/B testing, survival analysis, time series
+Explainability: SHAP, LIME, integrated gradients
+Languages: Python, R, SQL, Scala
+Tools: Spark, Airflow, MLflow, Docker, Jupyter, Tableau, Git
+
+EDUCATION
+Ph.D. in Statistics
+Harvard University, 2017
+
+M.S. in Applied Mathematics
+Johns Hopkins University, 2013
+
+B.S. in Mathematics
+Spelman College, 2011
+
+CERTIFICATIONS
+Certified Analytics Professional (CAP), 2020
+AWS Certified Machine Learning – Specialty (2021)
+Causal AI Certification – Causality Link Academy (2022)
+

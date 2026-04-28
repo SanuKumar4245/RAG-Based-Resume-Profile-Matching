@@ -1,0 +1,49 @@
+Jackson Brooks
+jackson.brooks@email.com | +1-617-555-4141 | Boston, MA | github.com/jacksonbrooks-ml | linkedin.com/in/jacksonbrooks-ml
+
+SUMMARY
+ML Research Engineer with 5 years of experience bridging research and production ML systems. Specializes in transformers, efficient inference, and building scalable ML infrastructure. Published researcher with expertise in model compression, quantization, and deployment optimization.
+
+EXPERIENCE
+ML Research Engineer — Microsoft Research, Boston, MA (2022 – Present)
+- Developed quantization and pruning methods reducing LLM model size by 75% with < 3% accuracy drop
+- Built efficient transformer inference engine achieving 5x speedup over HuggingFace baseline using TensorRT
+- Implemented knowledge distillation framework transferring capabilities from GPT-4 to 7B parameter models
+- Co-authored paper on speculative decoding accepted to NeurIPS 2023
+- Built distributed evaluation infrastructure benchmarking 30+ LLMs on 100+ tasks
+
+ML Engineer — HubSpot, Cambridge, MA (2020 – 2022)
+- Productionized content recommendation system serving 10M+ marketing emails/day using PyTorch and TorchServe
+- Built A/B testing infrastructure for ML models with automatic rollback on performance regression
+- Implemented real-time feature serving using Redis Feature Store reducing inference latency by 40%
+- Developed NLP models for email subject line optimization achieving 12% increase in open rates
+
+Junior ML Engineer — Rapid7, Boston, MA (2019 – 2020)
+- Built anomaly detection models in Python (scikit-learn, PyTorch) for cybersecurity threat detection
+- Developed NLP classifier for security incident categorization with 92% accuracy
+- Created data preprocessing pipelines for security event logs
+
+SKILLS
+ML Research: Transformers, model compression, quantization, pruning, knowledge distillation, efficient ML
+Frameworks: PyTorch, HuggingFace, TensorFlow, JAX, TensorRT, ONNX, vLLM
+Languages: Python, C++ (inference optimization), CUDA (basic), SQL
+MLOps: MLflow, TorchServe, Triton Inference Server, Docker, Kubernetes, AWS SageMaker
+Data: Pandas, NumPy, Apache Spark, DuckDB
+Tools: Weights & Biases, Hydra, Git, Jupyter, LaTeX
+
+EDUCATION
+M.S. in Machine Learning
+Northeastern University, 2019
+
+B.S. in Computer Science
+University of Vermont, 2017
+
+PROJECTS
+QuantLLM: Open-source LLM quantization toolkit for production deployment with 2,000+ GitHub stars.
+Efficient Transformers Survey: Curated collection of papers on efficient transformer architectures.
+
+CERTIFICATIONS
+NVIDIA Deep Learning Institute – Optimizing Models for Production (2022)
+AWS Machine Learning – Specialty (2021)
+PyTorch Proficiency Certification – Meta (2022)
+

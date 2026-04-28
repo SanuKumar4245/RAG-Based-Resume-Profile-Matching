@@ -1,0 +1,47 @@
+David Thompson
+david.thompson@email.com | +1-415-555-1818 | San Francisco, CA | github.com/davidthompson-android | linkedin.com/in/davidthompson-android
+
+SUMMARY
+Android Developer with 6 years of experience building consumer-facing Android applications with millions of downloads. Expert in Kotlin, Jetpack Compose, and Firebase. Consistent track record delivering apps with 4.6+ ratings and sub-1% crash rates.
+
+EXPERIENCE
+Senior Android Developer — DoorDash, San Francisco, CA (2021 – Present)
+- Led consumer Android app development (Kotlin, Jetpack Compose) serving 10M+ monthly active users
+- Migrated legacy XML layouts to Jetpack Compose, reducing UI code by 40% and improving rendering
+- Built offline-first order tracking using Room database and WorkManager background sync
+- Implemented deep link handling and dynamic feature modules reducing APK size by 30%
+- Conducted performance profiling using Android Profiler, reducing app startup time by 2 seconds
+
+Android Developer — Spotify, New York, NY (2019 – 2021)
+- Developed podcast features in Kotlin with MVVM architecture and Coroutines
+- Built custom audio playback controls using ExoPlayer and MediaSession API
+- Implemented A/B testing framework using Firebase Remote Config for 5M+ users
+- Integrated Firebase Analytics and Crashlytics for crash monitoring achieving < 0.1% crash rate
+
+Junior Android Developer — Capital One, Richmond, VA (2018 – 2019)
+- Built mobile banking features in Java and Kotlin following secure coding practices
+- Developed biometric authentication using Android Biometric API
+- Wrote unit tests with JUnit and Mockito achieving 80%+ code coverage
+
+SKILLS
+Languages: Kotlin, Java, Python, SQL
+Android: Jetpack Compose, Coroutines, Flow, Room, WorkManager, Navigation Component, Hilt
+Networking: Retrofit, OkHttp, REST APIs, GraphQL
+Firebase: Firebase Analytics, Crashlytics, Remote Config, Firestore, Cloud Messaging
+Testing: JUnit, Espresso, Mockito, Robolectric
+Architecture: MVVM, Clean Architecture, MVI, Repository Pattern
+Tools: Android Studio, Git, JIRA, Figma, Agile
+
+EDUCATION
+B.S. in Computer Science
+Virginia Tech, 2018
+
+PROJECTS
+Open-source Compose UI Kit: Material Design 3 component library for Jetpack Compose, 2,500+ GitHub stars.
+Podcast App Template: Full-featured podcast app template using ExoPlayer and Jetpack libraries.
+
+CERTIFICATIONS
+Google Associate Android Developer (2020)
+Kotlin Developer Certification – JetBrains (2021)
+Firebase Developer Certificate (2019)
+

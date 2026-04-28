@@ -1,0 +1,45 @@
+Thomas Muller
+thomas.muller@email.com | +1-512-555-3939 | Austin, TX | github.com/tmuller-k8s | linkedin.com/in/thomasmuller-platform
+
+SUMMARY
+Platform Engineer and Kubernetes specialist with 7 years of experience building internal developer platforms and cloud-native infrastructure. Expert in Kubernetes, Go, and GitOps. Built self-service platform reducing infrastructure provisioning time from 2 weeks to 30 minutes for 500+ developers.
+
+EXPERIENCE
+Staff Platform Engineer — Apple, Austin, TX (2021 – Present)
+- Designed and built Internal Developer Platform (IDP) using Backstage.io serving 3,000+ engineers
+- Implemented Kubernetes multi-cluster federation across 5 AWS regions using Cluster API
+- Built custom Kubernetes operators in Go for automated database provisioning and scaling
+- Designed GitOps workflow using ArgoCD and FluxCD enabling self-service deployments
+- Implemented progressive delivery framework using Argo Rollouts reducing deployment risk by 90%
+
+Senior Platform Engineer — HashiCorp, San Francisco, CA (2019 – 2021)
+- Contributed to Terraform Cloud features in Go for enterprise workspace management
+- Built Kubernetes admission controllers for policy enforcement using OPA/Gatekeeper
+- Developed Vault plugin for dynamic cloud credentials handling 1M+ secret leases/day
+- Created reference architectures for enterprise Kubernetes deployments
+
+DevOps Engineer — Rackspace Technology, San Antonio, TX (2017 – 2019)
+- Managed Kubernetes clusters on GKE and EKS for managed services customers
+- Built Helm chart library standardizing application deployments across 100+ client clusters
+- Implemented Prometheus/Grafana monitoring stack for 50+ managed Kubernetes environments
+
+SKILLS
+Kubernetes: Multi-cluster, RBAC, CRDs, Operators, Admission Controllers, Service Mesh (Istio), Helm
+Languages: Go, Python, Bash, TypeScript
+GitOps: ArgoCD, FluxCD, Terraform Cloud, Atlantis
+CI/CD: GitHub Actions, Jenkins, Tekton, GitLab CI, ArgoCD Workflows
+Cloud: AWS (EKS, EC2, S3, IAM), GCP (GKE), Azure (AKS)
+IaC: Terraform (expert), Pulumi, Ansible, Crossplane
+Observability: Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
+
+EDUCATION
+B.S. in Computer Science
+Technical University of Munich, Germany, 2017
+
+CERTIFICATIONS
+Certified Kubernetes Application Developer (CKAD), 2020
+Certified Kubernetes Administrator (CKA), 2019
+Certified Kubernetes Security Specialist (CKS), 2021
+HashiCorp Certified: Terraform Associate (2019)
+AWS Certified DevOps Engineer – Professional (2022)
+

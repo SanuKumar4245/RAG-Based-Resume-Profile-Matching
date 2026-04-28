@@ -1,0 +1,46 @@
+James Oduya
+james.oduya@email.com | +1-617-555-2424 | Cambridge, MA | scholar.google.com/jamesoduya | github.com/joduya-rl
+
+SUMMARY
+AI Research Scientist with 7 years of experience in reinforcement learning, multi-agent systems, and large language models. PhD from MIT with 20+ publications in top-tier venues (NeurIPS, ICML, ICLR). Expert in PyTorch, JAX, and distributed training of large models.
+
+EXPERIENCE
+Research Scientist — Meta AI Research (FAIR), New York, NY (2021 – Present)
+- Principal investigator on multi-agent reinforcement learning project achieving superhuman game play
+- Co-authored 4 NeurIPS and ICML papers on sample-efficient RL and offline policy optimization
+- Developed JAX-based distributed training framework enabling 10x faster experiment iteration
+- Led research collaboration with academia resulting in 3 joint publications with MIT, Stanford, and CMU
+- Mentored 5 research interns, 2 of whom completed full-time conversions
+
+Research Scientist — Google Brain, Mountain View, CA (2019 – 2021)
+- Researched neural scaling laws for LLMs, contributing findings that influenced PaLM training strategy
+- Developed novel attention mechanisms for long-context transformers (100K+ tokens)
+- Built PyTorch training infrastructure for billion-parameter model experiments on TPU pods
+
+Postdoctoral Researcher — MIT CSAIL, Cambridge, MA (2018 – 2019)
+- Researched model-based reinforcement learning for robotic manipulation
+- Published work on sim-to-real transfer achieving 85% success rate on real hardware
+
+SKILLS
+ML/AI: Reinforcement Learning, Deep Learning, NLP, LLMs, Multi-agent systems, Optimization
+Frameworks: PyTorch, JAX, TensorFlow, HuggingFace, Gymnasium (OpenAI Gym)
+Languages: Python, C++, Julia, CUDA
+Infrastructure: Distributed training (DDP, FSDP, Megatron), SLURM, Kubernetes
+Tools: Weights & Biases, MLflow, Hydra, Git, LATEX
+Research: Experimental design, statistical analysis, paper writing, peer review
+
+EDUCATION
+Ph.D. in Computer Science (AI/ML)
+Massachusetts Institute of Technology, 2018
+
+B.S. in Mathematics and Computer Science
+University of Lagos, Nigeria, 2013
+
+PROJECTS
+OpenRL Suite: Open-source reinforcement learning benchmark library, 5,000+ GitHub stars, used in 100+ research papers.
+MiniLLM: Efficient 1B parameter LLM trained from scratch with custom JAX infrastructure.
+
+CERTIFICATIONS
+NeurIPS Outstanding Paper Award (2022)
+ICML Best Poster Award (2020)
+

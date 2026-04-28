@@ -1,0 +1,45 @@
+Victor Lima
+victor.lima@email.com | +1-214-555-3131 | Dallas, TX | linkedin.com/in/victorlima-network | github.com/vlima-net
+
+SUMMARY
+Network Engineer with 9 years of experience designing, implementing, and managing enterprise and carrier-grade networks. Expert in BGP, OSPF, MPLS, and network automation using Python (netmiko, NAPALM). CCIE certified with deep expertise in Cisco platforms and SD-WAN solutions.
+
+EXPERIENCE
+Principal Network Engineer — AT&T, Dallas, TX (2019 – Present)
+- Designed and implemented BGP route policy framework for 50,000+ customer edge devices across national backbone
+- Led SD-WAN migration project for 2,000+ enterprise branch sites using Cisco Viptela
+- Built Python network automation framework using netmiko and Nornir replacing 90% of manual CLI operations
+- Architected AWS Direct Connect and Azure ExpressRoute connections for hybrid cloud customers
+- Implemented MPLS/VPN architecture providing QoS-guaranteed transport for 300+ enterprise clients
+
+Senior Network Engineer — Cisco Systems, Richardson, TX (2017 – 2019)
+- Designed spine-leaf datacenter fabrics using Cisco ACI for enterprise clients
+- Implemented OSPF and BGP routing for multi-site WAN using Cisco ASR and ISR platforms
+- Developed automation scripts in Python for bulk configuration and audit across 10,000+ devices
+- Mentored customers on SD-WAN architecture and policy framework design
+
+Network Engineer — Verizon, Irving, TX (2015 – 2017)
+- Managed core MPLS network carrying 40Gbps+ of customer traffic
+- Implemented BGP route policies and traffic engineering using RSVP-TE
+- Performed network capacity planning and performance monitoring using SolarWinds
+
+SKILLS
+Routing: BGP, OSPF, EIGRP, ISIS, MPLS, RSVP-TE, Segment Routing
+Switching: 802.1Q, STP, LACP, VxLAN, EVPN
+SD-WAN: Cisco Viptela, VMware VeloCloud
+Security: ACLs, Firewall (ASA, Firepower), Network Security, VPN (IPsec, DMVPN)
+Automation: Python (netmiko, NAPALM, Nornir, Paramiko), Ansible, RESTCONF/NETCONF
+Cloud: AWS (Direct Connect, VPC, Transit Gateway), Azure (ExpressRoute, Virtual WAN)
+Monitoring: SolarWinds, PRTG, Prometheus, Grafana, Cisco DNA Center
+Platforms: Cisco IOS/IOS-XE/IOS-XR, Nexus, ASA, Juniper JunOS
+
+EDUCATION
+B.S. in Telecommunications Engineering
+University of São Paulo, Brazil, 2015
+
+CERTIFICATIONS
+Cisco Certified Internetwork Expert (CCIE R&S #62441), 2020
+Cisco Certified Network Professional Enterprise (CCNP), 2017
+AWS Advanced Networking – Specialty (2022)
+Juniper Networks Certified Professional (JNCIP-ENT), 2019
+

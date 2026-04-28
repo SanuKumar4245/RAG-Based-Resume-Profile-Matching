@@ -1,0 +1,49 @@
+Samuel Johnson
+samuel.johnson@email.com | +1-650-555-1616 | Palo Alto, CA | github.com/sjohnson-sre | linkedin.com/in/samueljohnson-sre
+
+SUMMARY
+Site Reliability Engineer with 7 years of experience ensuring high availability, performance, and scalability of large-scale distributed systems. Expert in Linux systems, Kubernetes, Prometheus/Grafana, and Go. Drove SLO adoption across 20+ services achieving 99.99% uptime organization-wide.
+
+EXPERIENCE
+Staff Site Reliability Engineer — Google, Mountain View, CA (2020 – Present)
+- Owned reliability engineering for YouTube Comments serving 500M daily active users
+- Designed SLO framework adopted by 30+ engineering teams, reducing toil by 50%
+- Built Kubernetes-based autoscaling system responding to traffic spikes in < 60 seconds
+- Developed Go-based load testing framework simulating 10M concurrent users
+- Led incident management improvements reducing MTTD from 12 minutes to 3 minutes
+
+Senior SRE — Twitter (now X), San Francisco, CA (2018 – 2020)
+- Managed infrastructure for Tweet Ingestion pipeline handling 6,000 tweets/second
+- Implemented Prometheus alerting with 200+ custom rules reducing false positive rate by 80%
+- Built Grafana dashboards for real-time observability across 50+ microservices
+- Participated in on-call rotation, leading postmortems for major incidents
+
+SRE / Systems Engineer — Box, Redwood City, CA (2017 – 2018)
+- Automated Linux server provisioning using Ansible playbooks for 300+ hosts
+- Implemented ELK stack for centralized log aggregation and analysis
+- Maintained Kubernetes clusters (GKE) for microservices platform
+
+SKILLS
+SRE/Ops: SLO/SLA design, Incident Management, Chaos Engineering, Capacity Planning, Toil Reduction
+Languages: Go, Python, Bash, C
+Infrastructure: Linux (RHEL, Ubuntu), Kubernetes, Docker, Helm, Terraform, Ansible
+Monitoring: Prometheus, Grafana, Alertmanager, PagerDuty, Datadog, ELK Stack
+Cloud: GCP (GKE, GCE, Cloud Spanner), AWS, Azure
+Networking: TCP/IP, DNS, Load Balancing, BGP basics
+
+EDUCATION
+M.S. in Computer Science (Distributed Systems)
+Carnegie Mellon University, 2017
+
+B.S. in Computer Engineering
+UCLA, 2015
+
+PROJECTS
+SLO Toolkit: Open-source CLI tool for defining and monitoring SLOs integrated with Prometheus. 3,000+ GitHub stars.
+Adaptive Circuit Breaker: Go library for intelligent circuit breaking based on real-time SLO consumption.
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA), 2021
+Google Professional Cloud DevOps Engineer (2020)
+Linux Foundation Certified Engineer (LFCE), 2018
+

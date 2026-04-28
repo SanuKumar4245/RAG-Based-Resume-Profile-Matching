@@ -1,0 +1,50 @@
+Alex Morgan
+alex.morgan@email.com | +1-415-555-0101 | San Francisco, CA | linkedin.com/in/alexmorgan | github.com/alexmorgan
+
+SUMMARY
+Senior Machine Learning Engineer with 8 years of experience designing and deploying production-grade ML systems. Specializes in deep learning, MLOps, and scalable model serving. Proven track record of reducing inference latency by 40% and improving model accuracy by 15% across multiple projects.
+
+EXPERIENCE
+Senior Machine Learning Engineer — TechVision AI, San Francisco, CA (2020 – Present)
+- Led development of a real-time recommendation engine using PyTorch and AWS SageMaker, serving 5M+ daily users
+- Designed MLflow-based experiment tracking and model registry, reducing model iteration cycle from 2 weeks to 3 days
+- Built distributed training pipelines on Kubernetes using Horovod, cutting training time by 60%
+- Mentored a team of 4 ML engineers and conducted code reviews for model optimization strategies
+- Implemented A/B testing framework to validate model improvements before production rollout
+
+Machine Learning Engineer — DataBridge Corp, Mountain View, CA (2018 – 2020)
+- Developed NLP models for document classification using BERT fine-tuning in TensorFlow
+- Created automated data pipelines in Apache Airflow to ingest and preprocess 500GB daily
+- Collaborated with data engineers to build feature stores using Apache Spark and Delta Lake
+- Achieved 93% precision on entity extraction tasks, improving downstream analytics quality
+
+Junior ML Engineer — StartupAI, San Jose, CA (2016 – 2018)
+- Built CNN-based image classifiers achieving 89% accuracy on product defect detection
+- Deployed Flask-based model serving APIs on AWS EC2 with Docker containerization
+- Participated in Agile sprints, delivering bi-weekly model improvements
+
+SKILLS
+Programming: Python, C++, SQL, Bash
+ML Frameworks: PyTorch, TensorFlow, Keras, scikit-learn, JAX, HuggingFace
+MLOps: MLflow, Kubeflow, Docker, Kubernetes, AWS SageMaker, Airflow, CI/CD
+Cloud: AWS, GCP
+Data Tools: Apache Spark, Pandas, NumPy, Delta Lake, Snowflake
+Other: Git, JIRA, Agile, REST APIs, Prometheus, Grafana
+
+EDUCATION
+M.S. in Computer Science (Machine Learning concentration)
+Stanford University, 2016
+
+B.S. in Electrical Engineering
+University of California, Berkeley, 2014
+
+PROJECTS
+LLM Fine-tuning Framework: Open-source library for parameter-efficient fine-tuning of large language models using LoRA and QLoRA. 800+ GitHub stars.
+
+AutoML Pipeline: Built automated hyperparameter tuning system using Bayesian optimization and Optuna, reducing manual tuning effort by 70%.
+
+CERTIFICATIONS
+AWS Certified Machine Learning Specialty (2022)
+Google Professional ML Engineer (2021)
+Deep Learning Specialization — Coursera/deeplearning.ai (2018)
+

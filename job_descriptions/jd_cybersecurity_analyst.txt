@@ -1,0 +1,42 @@
+Senior Cybersecurity Analyst
+
+We are seeking an experienced Senior Cybersecurity Analyst to protect our cloud-native infrastructure, detect threats, and lead incident response across our enterprise environment.
+
+ROLE SUMMARY
+You will join our Security Operations team to hunt for threats, conduct penetration tests, build detection capabilities, and drive security improvement initiatives. You will work closely with DevOps, engineering, and compliance teams to embed security across the organization.
+
+RESPONSIBILITIES
+- Conduct threat hunting operations using SIEM platforms (Splunk, Microsoft Sentinel)
+- Perform penetration testing on web applications, APIs, cloud infrastructure, and internal networks
+- Lead incident response investigations from detection through containment and remediation
+- Develop and tune detection rules and correlation queries in SIEM
+- Conduct vulnerability assessments using Nessus/Qualys and manage remediation workflows
+- Implement and monitor cloud security posture using AWS Security Hub, GuardDuty, or Azure Defender
+- Develop security automation scripts in Python for threat intelligence and response
+- Mentor junior security analysts and build team capability
+
+REQUIRED SKILLS
+- 5+ years of experience in cybersecurity analysis, threat hunting, or penetration testing
+- Proficiency with SIEM platforms (Splunk, ArcSight, Sentinel, or QRadar)
+- Hands-on penetration testing experience with tools: Burp Suite, Metasploit, Nmap
+- Experience with cloud security (AWS, Azure, or GCP security services)
+- Strong scripting skills in Python or Bash for security automation
+- Knowledge of MITRE ATT&CK framework and threat intelligence frameworks
+- Understanding of network protocols, firewalls, IDS/IPS, and endpoint security
+- Familiarity with compliance frameworks: SOC 2, ISO 27001, PCI-DSS, or HIPAA
+
+PREFERRED SKILLS
+- CISSP, OSCP, CEH, or GIAC certifications strongly preferred
+- Experience with digital forensics and malware analysis (Volatility, IDA Pro)
+- Red team or offensive security experience
+- Knowledge of container and Kubernetes security
+- Experience with zero-trust architecture design
+- Familiarity with SOAR platforms for automated incident response
+
+EDUCATION
+- B.S. in Cybersecurity, Computer Science, or related field
+- Professional security certifications (CISSP, OSCP, CEH) considered in lieu of degree
+
+COMPENSATION
+$140,000 – $195,000 base salary + equity + benefits
+
