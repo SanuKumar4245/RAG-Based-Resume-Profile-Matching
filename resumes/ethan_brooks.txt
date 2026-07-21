@@ -1,0 +1,46 @@
+Ethan Brooks
+ethan.brooks@email.com | +1-628-555-1313 | San Francisco, CA | github.com/ethanbrooks-web3 | linkedin.com/in/ethanbrooks
+
+SUMMARY
+Blockchain Developer with 5 years of experience building decentralized applications, smart contracts, and DeFi protocols. Expert in Solidity, Ethereum, and Web3.js. Contributed to protocols securing $2B+ in total value locked (TVL). Strong Python and Rust background for backend and performance-critical components.
+
+EXPERIENCE
+Senior Blockchain Engineer — Compound Finance, San Francisco, CA (2022 – Present)
+- Developed and audited Solidity smart contracts for lending protocol managing $800M TVL
+- Built automated security testing suite using Foundry and Hardhat catching vulnerabilities pre-deployment
+- Implemented gas optimization techniques reducing transaction costs by 38%
+- Integrated Chainlink oracles for real-time price feeds with fallback mechanisms
+- Led smart contract upgrade process using proxy patterns maintaining zero downtime
+
+Blockchain Developer — ConsenSys, New York, NY (2020 – 2022)
+- Built Ethereum dApps using React, Ethers.js, and Web3.js for enterprise blockchain solutions
+- Developed Solidity ERC-20, ERC-721, and ERC-1155 token contracts
+- Created subgraphs using The Graph Protocol for efficient blockchain data indexing
+- Wrote Python scripts for blockchain data analytics and transaction monitoring
+- Participated in Ethereum protocol research and EIP discussions
+
+Junior Blockchain Developer — Chainalysis, New York, NY (2019 – 2020)
+- Built transaction tracing tools in Python for blockchain forensics
+- Analyzed DeFi protocol interactions using Rust performance-critical components
+- Assisted in smart contract security reviews and code audits
+
+SKILLS
+Blockchain: Solidity, Ethereum, Polygon, Arbitrum, Web3.js, Ethers.js, Hardhat, Foundry, Truffle
+Languages: Python, Rust, JavaScript, TypeScript
+DeFi: AMMs, Lending Protocols, Yield Farming, oracles, flash loans
+Tools: Metamask, IPFS, The Graph, OpenZeppelin, Chainlink
+Security: Smart contract auditing, reentrancy prevention, formal verification
+Backend: Node.js, FastAPI, PostgreSQL, Redis, Docker
+
+EDUCATION
+B.S. in Computer Science
+UC San Diego, 2019
+
+PROJECTS
+DeFi Yield Aggregator: Automated yield optimization protocol with $15M TVL peak during testnet.
+NFT Marketplace: Gas-efficient NFT marketplace with lazy minting, supporting 10K+ users.
+
+CERTIFICATIONS
+Certified Ethereum Developer (Consensys Academy), 2020
+Blockchain Fundamentals – UC Berkeley Extension (2019)
+

@@ -1,0 +1,41 @@
+Senior Machine Learning Engineer
+
+We are looking for a Senior Machine Learning Engineer to join our AI Platform team. You will design and deploy production-scale machine learning systems that power our core products.
+
+ROLE SUMMARY
+As a Senior ML Engineer, you will work across the full ML lifecycle — from data exploration and model development to deployment, monitoring, and continuous improvement. You will collaborate closely with research, data engineering, and software engineering teams.
+
+RESPONSIBILITIES
+- Design, train, and deploy machine learning models at scale (10M+ daily predictions)
+- Build and maintain ML pipelines including data preprocessing, feature engineering, training, evaluation, and deployment
+- Collaborate with data scientists and ML researchers to productionize experimental models
+- Implement MLOps best practices: versioning, monitoring, CI/CD for ML, model registry
+- Optimize model performance including inference speed, memory efficiency, and accuracy
+- Work with LLMs, transformers, and other large-scale neural architectures
+- Mentor junior ML engineers and contribute to engineering standards
+
+REQUIRED SKILLS
+- 5+ years of experience in machine learning engineering or related roles
+- Strong proficiency in Python and deep learning frameworks (PyTorch, TensorFlow)
+- Experience with MLOps tools: MLflow, Kubeflow, or similar
+- Hands-on experience with cloud platforms (AWS, GCP, or Azure) and ML services
+- Experience deploying models to production using Docker and Kubernetes
+- Solid understanding of NLP, computer vision, or recommendation systems
+- Experience with data pipelines (Airflow, Spark) and feature engineering at scale
+- Strong software engineering skills: code reviews, testing, CI/CD
+
+PREFERRED SKILLS
+- Experience with large language models (LLMs), RAG systems, or LangChain
+- Research background or experience contributing to ML publications
+- Experience with HuggingFace Transformers ecosystem
+- Familiarity with model compression, quantization, or efficient inference (TensorRT, ONNX)
+- Knowledge of distributed training (Horovod, FSDP, DDP)
+- Experience with JAX
+
+EDUCATION
+- M.S. or Ph.D. in Computer Science, Machine Learning, or related field preferred
+- B.S. with exceptional experience considered
+
+COMPENSATION
+$180,000 – $250,000 base salary + equity + benefits
+

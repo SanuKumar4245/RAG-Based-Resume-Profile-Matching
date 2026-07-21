@@ -1,0 +1,44 @@
+Fatima Al-Rashid
+fatima.alrashid@email.com | +1-214-555-1515 | Dallas, TX | linkedin.com/in/fatimaalrashid
+
+SUMMARY
+Business Intelligence Analyst with 6 years of experience transforming raw data into strategic insights through compelling dashboards and reports. Expert in Power BI, DAX, SQL, and Excel. Enabled executive decision-making at a $3B revenue company through self-serve analytics platforms.
+
+EXPERIENCE
+Senior BI Analyst — AT&T, Dallas, TX (2021 – Present)
+- Built executive-level Power BI dashboards tracking 40+ KPIs monitored by C-suite weekly
+- Developed complex DAX measures for financial reporting reducing manual Excel work by 80%
+- Designed star-schema data model in Azure Synapse supporting 5TB of operational data
+- Created automated report distribution system using Power BI API and Python scripts
+- Led BI training program for 200+ business users, increasing self-serve analytics adoption by 65%
+
+BI Analyst — Southwest Airlines, Dallas, TX (2019 – 2021)
+- Built operational dashboards for flight operations, tracking on-time performance and capacity
+- Wrote complex SQL queries against Oracle data warehouse for revenue and yield management analytics
+- Automated Excel-based reports using Python (openpyxl, xlwings), saving 20 hours/week
+- Collaborated with data engineering team to define data requirements and ETL specifications
+
+Junior Analyst — Accenture, Dallas, TX (2018 – 2019)
+- Created Tableau dashboards for client supply chain analytics
+- Performed data quality assessment using SQL and Excel for data migration projects
+
+SKILLS
+BI Tools: Power BI, Tableau, Looker, SSRS
+Languages & Query: SQL (T-SQL, PL/SQL), Python, DAX, MDX, Excel (advanced)
+Data Platforms: Azure Synapse, SQL Server, Snowflake, Oracle, PostgreSQL
+ETL/ELT: SSIS, Azure Data Factory, dbt
+Soft Skills: Stakeholder management, business requirements gathering, data storytelling
+
+EDUCATION
+M.S. in Business Analytics
+University of Texas at Dallas, 2018
+
+B.B.A. in Management Information Systems
+University of Texas at Arlington, 2016
+
+CERTIFICATIONS
+Microsoft Certified: Power BI Data Analyst Associate (DA-100), 2022
+Tableau Desktop Specialist, 2020
+Microsoft Azure Data Fundamentals (DP-900), 2021
+Certified Analytics Professional (CAP), 2021
+

@@ -1,0 +1,44 @@
+Liu Yang
+liu.yang@email.com | +1-512-555-2525 | Austin, TX | github.com/liuyang-embedded | linkedin.com/in/liuyang-embedded
+
+SUMMARY
+Embedded Systems Engineer with 5 years of experience developing firmware and real-time software for IoT devices, consumer electronics, and industrial control systems. Expert in C programming for ARM Cortex-M microcontrollers and FreeRTOS. Delivered production firmware for 3M+ deployed devices.
+
+EXPERIENCE
+Embedded Software Engineer II — NXP Semiconductors, Austin, TX (2021 – Present)
+- Developed device driver library in C for NXP i.MX RT series MCUs including SPI, I2C, UART, USB, and Ethernet
+- Implemented FreeRTOS task scheduling and synchronization primitives for multi-core embedded applications
+- Built OTA (Over-The-Air) firmware update system using MQTT and TLS for IoT devices
+- Optimized bootloader code achieving cold-start boot time under 200ms on resource-constrained hardware
+- Wrote hardware abstraction layer (HAL) enabling portability across 5 different silicon platforms
+
+Embedded Engineer — Silicon Labs, Austin, TX (2019 – 2021)
+- Developed Bluetooth Low Energy (BLE) firmware stack components for IoT sensor nodes
+- Implemented power management routines achieving 5+ year battery life on 2450mAh cell
+- Built Python test automation scripts for firmware validation on hardware-in-the-loop (HIL) systems
+- Contributed to RTOS port for RISC-V architecture
+
+Junior Embedded Developer — Lutron Electronics, Coopersburg, PA (2018 – 2019)
+- Developed lighting control firmware in C for ARM Cortex-M3 microcontrollers
+- Implemented Zigbee mesh networking protocol integration for smart home devices
+
+SKILLS
+Languages: C, C++, Python, Assembly (ARM Thumb)
+RTOS: FreeRTOS, Zephyr, VxWorks, bare-metal
+Microcontrollers: ARM Cortex-M (M0, M3, M4, M7), ESP32, RISC-V
+Communication: SPI, I2C, UART, USB, BLE, Zigbee, MQTT, CAN, Ethernet
+Tools: GNU ARM Toolchain, GDB, JTAG/SWD, Logic analyzer, Oscilloscope, CMake
+Other: Git, Agile, MISRA C, JIRA, Docker
+
+EDUCATION
+B.S. in Electrical Engineering
+National Taiwan University, 2018
+
+PROJECTS
+LVGL Touch UI: Ported LVGL graphics library to custom embedded Linux platform for industrial HMI.
+FreeRTOS Scheduler Benchmark: Open-source benchmark tool measuring task scheduling jitter across RTOS variants.
+
+CERTIFICATIONS
+ARM Accredited Engineer (2021)
+Zephyr RTOS Developer Certification (2022)
+

@@ -1,0 +1,46 @@
+Alicia Reyes
+alicia.reyes@email.com | +1-305-555-4040 | Miami, FL | github.com/aliciareyes-py | linkedin.com/in/aliciareyes
+
+SUMMARY
+Senior Python Developer with 6 years of experience building scalable backend services, data pipelines, and REST/GraphQL APIs. Deep expertise in Python ecosystem including FastAPI, SQLAlchemy, Celery, and async programming. Contributed to open-source projects with 10,000+ combined GitHub stars.
+
+EXPERIENCE
+Senior Software Engineer — Chewy, Dania Beach, FL (2021 – Present)
+- Built high-throughput order processing microservice in Python (FastAPI + asyncio) handling 50K orders/hour
+- Designed GraphQL API using Strawberry and Python for pet product catalog serving 15M customers
+- Implemented distributed task queue using Celery and Redis for async email/notification processing
+- Built ML data preprocessing pipelines using Pandas and NumPy feeding personalization models
+- Led Python version migration from 3.8 to 3.11, leveraging performance improvements reducing CPU by 20%
+
+Python Developer — Magic Leap, Plantation, FL (2020 – 2021)
+- Developed computer vision data labeling pipeline in Python processing 100K+ images/day
+- Built REST APIs with Django REST Framework for AR device management platform
+- Implemented CI/CD pipeline with GitHub Actions for automated testing and deployment
+- Wrote comprehensive test suite with pytest and factory_boy achieving 92% code coverage
+
+Software Developer — Modernizing Medicine, Boca Raton, FL (2018 – 2020)
+- Developed healthcare data integration APIs in Python and Django connecting EHR systems
+- Built HL7/FHIR data transformation pipelines for clinical data interoperability
+- Implemented role-based access control and HIPAA-compliant audit logging systems
+
+SKILLS
+Languages: Python, SQL, JavaScript (basic), Bash
+Frameworks: FastAPI, Django, Django REST Framework, Flask, Strawberry (GraphQL), SQLAlchemy
+Async: asyncio, aiohttp, Celery, Redis Queue, Kafka
+Data: Pandas, NumPy, SQLAlchemy, Alembic, Pydantic
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+DevOps: Docker, Kubernetes, GitHub Actions, AWS (EC2, RDS, S3, Lambda), pytest
+
+EDUCATION
+B.S. in Computer Science
+Florida International University, 2018
+
+PROJECTS
+pydantic-validators: Extension library for Pydantic with 50+ custom validators used in 5,000+ projects.
+async-email: FastAPI-based async email service with template support and multi-provider fallback.
+
+CERTIFICATIONS
+Python Institute PCPP – Certified Professional in Python Programming (2021)
+AWS Certified Developer – Associate (2020)
+FastAPI and Modern Python – TestDriven.io Certificate (2022)
+

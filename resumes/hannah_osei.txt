@@ -1,0 +1,44 @@
+Hannah Osei
+hannah.osei@email.com | +1-415-555-3636 | San Francisco, CA | linkedin.com/in/hannahosei-ai-pm
+
+SUMMARY
+AI Product Manager with 6 years of experience building and shipping machine learning products at scale. Technical background in data science with an MBA, enabling effective communication between engineering, research, and business teams. Launched 5 ML-powered products generating $30M+ combined revenue.
+
+EXPERIENCE
+Senior Product Manager, AI — Salesforce, San Francisco, CA (2021 – Present)
+- Led product from inception to GA for Einstein Copilot, an LLM-powered CRM assistant (50,000+ users)
+- Defined evaluation framework for LLM quality metrics: accuracy, hallucination rate, latency
+- Collaborated with ML researchers to define model training data requirements and RLHF strategy
+- Managed roadmap across 3 AI feature teams (30 engineers), delivering quarterly OKRs
+- Ran A/B tests measuring LLM feature adoption, achieving 67% DAU lift post-launch
+
+Product Manager, ML — Twitter (now X), San Francisco, CA (2019 – 2021)
+- Owned recommendation algorithm product for "Topics" feature, growing to 200M followers
+- Analyzed ML model performance using SQL and Python, driving improvements that +15% CTR
+- Collaborated with data scientists on feature engineering and training data labeling strategy
+- Launched real-time ML ranking pipeline reducing recommendation latency from 300ms to 45ms
+
+Associate PM — Coursera, Mountain View, CA (2018 – 2019)
+- Supported launch of AI-powered course recommendations and completion prediction feature
+- Conducted user research and A/B testing on personalization algorithms
+
+SKILLS
+Product: AI/ML Product Strategy, Roadmapping, Agile/Scrum, JIRA, Confluence, A/B Testing, OKRs
+Technical: Python (data analysis), SQL, ML concepts (RAG, LLMs, NLP, recommendation systems)
+ML/AI: Prompt engineering, model evaluation, RLHF, feature stores, MLOps awareness
+Tools: Figma, Mixpanel, Looker, Amplitude, Google Analytics
+Communication: Executive storytelling, stakeholder management, cross-functional leadership
+
+EDUCATION
+MBA in Technology Strategy
+Wharton School, University of Pennsylvania, 2018
+
+B.S. in Data Science
+University of Ghana, Accra, 2016
+
+CERTIFICATIONS
+Certified Scrum Product Owner (CSPO), 2019
+DeepLearning.AI: AI for Everyone (2020)
+Pragmatic Marketing Certified – Level 5 (2022)
+Google Project Management Certificate (2022)
+

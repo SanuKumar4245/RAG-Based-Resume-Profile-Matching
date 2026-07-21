@@ -1,0 +1,43 @@
+Senior Python Backend Developer
+
+We are looking for a Senior Python Backend Developer to join our core platform team building developer-facing APIs and microservices powering our SaaS product at scale.
+
+ROLE SUMMARY
+You will design, build, and operate Python backend services used by 100,000+ developers worldwide. You will work on everything from high-throughput REST and GraphQL APIs to asynchronous data processing systems, collaborating with frontend engineers, data teams, and ML engineers.
+
+RESPONSIBILITIES
+- Design and build production Python APIs using FastAPI, Flask, or Django (REST and GraphQL)
+- Implement async processing systems using Celery, Redis, and message queues
+- Design PostgreSQL database schemas, write complex queries, and optimize performance
+- Build and maintain CI/CD pipelines and Docker/Kubernetes deployments
+- Write comprehensive tests (pytest with fixtures, testcontainers, property-based testing)
+- Perform code reviews and contribute to architectural decisions
+- Collaborate with frontend and ML teams on API design and data contracts
+- Monitor system health using Prometheus, Grafana, and log aggregation tools
+
+REQUIRED SKILLS
+- 5+ years Python backend development experience
+- Expert-level Python proficiency (type hints, async/await, decorators, context managers)
+- Strong experience with FastAPI, Django, or Flask in production environments
+- Proficiency in PostgreSQL: schema design, indexing, query optimization, migrations
+- Experience with Redis for caching, rate limiting, and pub/sub patterns
+- Containerization with Docker and orchestration with Kubernetes
+- CI/CD experience with GitHub Actions, GitLab CI, or Jenkins
+- Strong testing skills with pytest
+
+PREFERRED SKILLS
+- GraphQL API development experience (Strawberry, Ariadne, or Graphene)
+- Experience with async Python and aiohttp/asyncio patterns
+- Familiarity with message brokers (Kafka, RabbitMQ, AWS SQS)
+- Experience with Elasticsearch or full-text search systems
+- Knowledge of gRPC and Protobuf for service-to-service communication
+- Open-source Python project contributions
+- Cloud experience with AWS (Lambda, RDS, SQS, S3) or GCP
+
+EDUCATION
+- B.S. in Computer Science or equivalent experience
+- Contributions to open-source Python projects highly valued
+
+COMPENSATION
+$145,000 – $200,000 base salary + equity + benefits
+

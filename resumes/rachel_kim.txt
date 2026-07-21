@@ -1,0 +1,44 @@
+Rachel Kim
+rachel.kim@email.com | +1-323-555-0808 | Los Angeles, CA | rachelkim.dev | github.com/rachelkim
+
+SUMMARY
+Frontend Developer with 3 years of experience crafting pixel-perfect, performant user interfaces. Specializes in React, Vue.js, and TypeScript. Passionate about accessibility, design systems, and web performance. Collaborates closely with UX designers using Figma to translate designs into code.
+
+EXPERIENCE
+Frontend Developer — Snap Inc., Los Angeles, CA (2022 – Present)
+- Built reusable component library using React and TypeScript adopted by 12 product teams
+- Implemented design system from scratch with Storybook, reducing UI inconsistencies by 70%
+- Optimized web application performance achieving Core Web Vitals score improvement from 55 to 91
+- Integrated Figma design tokens into CSS custom properties for seamless design-to-code workflow
+- Led accessibility (WCAG 2.1 AA) audit and remediation across 3 major products
+
+Frontend Developer — Hulu, Santa Monica, CA (2021 – 2022)
+- Developed streaming video player controls using React and HTML5 Canvas API
+- Built responsive layouts for web and smart TV platforms using CSS Grid and Flexbox
+- Implemented lazy loading and code splitting, reducing initial bundle size by 40%
+- Worked in Agile/Scrum sprints with 2-week cycles and collaborated with backend teams
+
+Junior Frontend Developer — Freelance (2020 – 2021)
+- Delivered 8 client websites using React, Vue.js, and Vanilla JavaScript
+- Integrated REST APIs for e-commerce, booking, and content management systems
+- Used Figma and Adobe XD for wireframing collaboration with clients
+
+SKILLS
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frameworks/Libraries: React, Vue.js, Next.js, Redux, React Query, styled-components, Tailwind CSS
+Tools: Figma, Storybook, Webpack, Vite, Babel, ESLint, Prettier
+Testing: Jest, React Testing Library, Cypress
+Other: Git, REST APIs, GraphQL, Agile, Accessibility (WCAG)
+
+EDUCATION
+B.S. in Computer Science
+University of Southern California, 2020
+
+PROJECTS
+a11y-audit-toolkit: Browser extension for real-time accessibility testing with WCAG guidelines.
+react-weather-app: Weather application with geolocation, custom hooks, and animated transitions.
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate (2022)
+Google UX Design Certificate (2021)
+

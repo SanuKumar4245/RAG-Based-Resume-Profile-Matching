@@ -1,0 +1,47 @@
+Michelle Turner
+michelle.turner@email.com | +1-571-555-3434 | Reston, VA | linkedin.com/in/michelleturner-devsecops | github.com/mturner-security
+
+SUMMARY
+DevSecOps Engineer with 8 years of experience integrating security practices into CI/CD pipelines and cloud-native infrastructure. CISSP and CKS certified. Expert in container security, SIEM integration, and security automation. Led security transformation initiatives reducing vulnerability remediation time by 75%.
+
+EXPERIENCE
+Principal DevSecOps Engineer — Leidos, Reston, VA (2020 – Present)
+- Designed security-as-code framework integrating SAST, DAST, and SCA scanning into GitLab CI pipelines
+- Implemented runtime container security using Falco and Twistlock for 500+ Kubernetes workloads
+- Built custom SIEM integration using Python ingesting security events from 20+ cloud services into Splunk
+- Led SOC 2 Type II audit automation using Cloud Custodian and AWS Config Rules
+- Developed Infrastructure-as-Code security scanning with Checkov and Terrascan
+
+Senior DevSecOps Engineer — MITRE Corporation, McLean, VA (2018 – 2020)
+- Implemented shift-left security practices embedding OWASP ZAP in Jenkins CI/CD pipelines
+- Built secrets management solution using HashiCorp Vault integrated with Kubernetes
+- Created automated vulnerability assessment workflow using Nessus, Qualys, and Python orchestration
+- Deployed network micro-segmentation using Kubernetes NetworkPolicy and Open Policy Agent (OPA)
+
+Cloud Security Engineer — Booz Allen Hamilton, McLean, VA (2016 – 2018)
+- Implemented AWS Security Hub and GuardDuty for continuous cloud security monitoring
+- Configured CIS benchmark compliance checks across 1,000+ AWS accounts
+- Developed Python automation tools for AWS IAM access review and remediation
+
+SKILLS
+Security: Penetration Testing, SIEM (Splunk), Container Security, Secret Management, Vulnerability Management
+Tools: Falco, Twistlock/Prisma, Checkov, Terrascan, OWASP ZAP, Vault, OPA, Trivy
+Cloud: AWS (Security Hub, GuardDuty, IAM, Config), Azure Sentinel, GCP SCC
+IaC: Terraform, Ansible, Kubernetes, Helm, GitOps
+Languages: Python, Bash, Go (basic), PowerShell
+Compliance: SOC 2, FedRAMP, NIST 800-53, PCI-DSS, HIPAA, CISSP
+
+EDUCATION
+M.S. in Cybersecurity
+George Washington University, 2016
+
+B.S. in Computer Science
+Virginia Commonwealth University, 2014
+
+CERTIFICATIONS
+Certified Information Systems Security Professional (CISSP), 2020
+Certified Kubernetes Security Specialist (CKS), 2022
+AWS Certified Security – Specialty, 2021
+Offensive Security Certified Professional (OSCP), 2019
+HashiCorp Certified: Vault Associate (2021)
+

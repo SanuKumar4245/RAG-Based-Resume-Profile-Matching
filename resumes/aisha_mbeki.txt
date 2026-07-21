@@ -1,0 +1,40 @@
+Aisha Mbeki
+aisha.mbeki@email.com | +1-404-555-1919 | Atlanta, GA | linkedin.com/in/aishambekidata
+
+SUMMARY
+Data Analyst with 3 years of experience delivering business insights through data analysis, visualization, and statistical modeling. Proficient in SQL, Python, Power BI, and Excel. Known for translating complex data into clear, actionable recommendations for non-technical stakeholders.
+
+EXPERIENCE
+Data Analyst — The Home Depot, Atlanta, GA (2022 – Present)
+- Analyzed supply chain efficiency data for 200+ distribution centers using SQL and Python
+- Built Power BI dashboards tracking inventory turnover and on-shelf availability for senior leadership
+- Performed customer segmentation analysis using RFM modeling in Python (Pandas, NumPy)
+- Automated weekly reporting pipelines using Python, saving 12 hours of manual work per week
+- Conducted statistical analysis (hypothesis testing, regression) using scipy and statsmodels
+
+Junior Data Analyst — NCR Corporation, Atlanta, GA (2021 – 2022)
+- Created Excel-based financial models for budget planning and variance analysis
+- Wrote SQL queries against SQL Server for ad-hoc business reporting requests
+- Built KPI tracking dashboards in Tableau for operations team
+- Collaborated with IT team on data quality issues and data governance documentation
+
+Data Intern — Delta Air Lines, Atlanta, GA (2020 – 2021)
+- Analyzed flight delay patterns using Python and SQL to identify operational improvement opportunities
+- Created visualizations in Matplotlib and Seaborn for operations review presentations
+
+SKILLS
+Languages: SQL, Python, R (basic)
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, scipy, statsmodels
+BI/Visualization: Power BI, Tableau, Excel (advanced), Google Sheets
+Databases: SQL Server, PostgreSQL, MySQL, Snowflake (basic)
+Other: Git, JIRA, Statistics, Agile, Pivot Tables, VLOOKUP, Macros
+
+EDUCATION
+B.S. in Information Systems and Decision Sciences
+Georgia State University, 2020
+
+CERTIFICATIONS
+Microsoft Power BI Data Analyst Associate (DA-100), 2023
+Google Data Analytics Professional Certificate, 2022
+IBM Data Analyst Professional Certificate, 2021
+

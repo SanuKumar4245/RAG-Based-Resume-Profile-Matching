@@ -1,0 +1,42 @@
+Senior Full Stack Developer
+
+We are looking for a Senior Full Stack Developer who thrives working across the entire web application stack — from React-based frontends to Node.js/Python microservices backends and cloud infrastructure.
+
+ROLE SUMMARY
+You will join our product engineering team building consumer-facing features used by millions of users. You will work end-to-end: designing APIs, building UI components, optimizing database queries, and shipping to production via automated CI/CD pipelines.
+
+RESPONSIBILITIES
+- Design and build scalable REST and GraphQL APIs using Node.js or Python backends
+- Develop high-performance, accessible React/TypeScript frontends
+- Write robust automated tests (unit, integration, end-to-end)
+- Design and optimize relational and NoSQL database schemas (PostgreSQL, MongoDB)
+- Deploy and monitor services on AWS or GCP using Docker and Kubernetes
+- Participate in architecture discussions and technical design reviews
+- Mentor junior developers and conduct code reviews
+- Collaborate with designers, using Figma for design handoff
+
+REQUIRED SKILLS
+- 5+ years of full stack development experience
+- Expert-level proficiency in React and TypeScript/JavaScript
+- Strong backend experience with Node.js or Python (FastAPI, Django, or Express)
+- Experience designing RESTful APIs and GraphQL schemas
+- Solid database skills: PostgreSQL or MySQL (schema design, query optimization)
+- Experience with cloud deployment using Docker and Kubernetes
+- CI/CD pipeline experience (GitHub Actions, Jenkins, or GitLab CI)
+- Strong testing practices across frontend and backend
+
+PREFERRED SKILLS
+- Experience with Next.js for server-side rendering
+- Familiarity with React Native for mobile development
+- Experience with Redis caching and message queues (Kafka, RabbitMQ)
+- Knowledge of WebSockets and real-time systems
+- Contributions to open-source projects
+- Experience with Figma design collaboration
+- GraphQL federation and microservices experience
+
+EDUCATION
+- B.S. in Computer Science or equivalent practical experience
+
+COMPENSATION
+$145,000 – $200,000 base salary + equity + benefits
+

@@ -1,0 +1,44 @@
+Claire Dubois
+claire.dubois@email.com | +1-415-555-2828 | San Francisco, CA | clairesresearch.com | linkedin.com/in/clairedubois-ux
+
+SUMMARY
+UX Researcher with 5 years of experience conducting mixed-methods research to inform product design at consumer-scale tech companies. Expert in user testing, usability studies, and qualitative data analysis. Proficient with Figma, Sketch, and Python for research synthesis automation.
+
+EXPERIENCE
+Senior UX Researcher — Airbnb, San Francisco, CA (2021 – Present)
+- Led qualitative research program for Guest Discovery product with 300M+ users
+- Conducted 200+ user interviews, contextual inquiries, and moderated usability tests
+- Built research repository in Dovetail analyzing 5,000+ research data points across 50 studies
+- Designed and analyzed surveys using Python (Pandas) and statistical methods for quantitative insights
+- Collaborated with Figma prototypes to align research findings with design iterations
+
+UX Researcher — Uber, San Francisco, CA (2019 – 2021)
+- Conducted remote and in-person usability studies for driver and rider mobile apps
+- Built user journey maps revealing 7 key friction points, guiding product redesign
+- Managed panel of 500+ research participants for ongoing longitudinal study
+- Used Python scripts to automate synthesis of survey data reducing analysis time by 60%
+
+Junior UX Researcher — IDEO, Palo Alto, CA (2018 – 2019)
+- Supported design thinking workshops and user co-creation sessions
+- Conducted diary studies and field observation research for healthcare client
+- Created affinity diagrams and persona deliverables for client presentations
+
+SKILLS
+Research Methods: Usability testing, user interviews, contextual inquiry, diary studies, surveys, A/B testing
+Tools: Figma, Sketch, UserTesting.com, Dovetail, Lookback, Optimal Workshop, Qualtrics
+Analysis: Python (Pandas, NumPy), R (basic), Excel, SPSS, thematic analysis
+Deliverables: Journey maps, personas, research reports, affinity diagrams, recommendations
+Soft Skills: Facilitation, stakeholder communication, research evangelism
+
+EDUCATION
+M.A. in Human-Computer Interaction
+Carnegie Mellon University, 2018
+
+B.A. in Cognitive Science
+University of Paris, France, 2016
+
+CERTIFICATIONS
+Nielsen Norman Group UX Certification, 2020
+IDEO Design Thinking Certification, 2019
+Certificate in User Research – General Assembly (2018)
+

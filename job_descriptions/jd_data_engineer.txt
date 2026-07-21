@@ -1,0 +1,43 @@
+Senior Data Engineer
+
+We are seeking a Senior Data Engineer to build and scale our data infrastructure supporting 500+ data consumers across the organization.
+
+ROLE SUMMARY
+You will design and implement robust, scalable data pipelines, data lake architectures, and real-time streaming systems. You will partner with data scientists, analysts, and product managers to ensure data is reliable, accessible, and ready for analytics and ML.
+
+RESPONSIBILITIES
+- Design and build batch and streaming data pipelines processing terabytes of daily data
+- Architect and maintain data lake/lakehouse infrastructure (Delta Lake, Apache Iceberg)
+- Develop ETL/ELT workflows using Apache Airflow, dbt, and cloud-native tools
+- Build real-time data pipelines using Apache Kafka and Spark Streaming
+- Partner with ML teams to build and maintain feature stores and ML data pipelines
+- Implement data quality and observability frameworks (Great Expectations, Monte Carlo)
+- Optimize Spark jobs and SQL queries for performance and cost efficiency
+- Mentor junior data engineers and set data engineering standards
+
+REQUIRED SKILLS
+- 4+ years of experience in data engineering
+- 5+ years Python experience for data pipeline development
+- Strong expertise in Apache Spark (PySpark or Scala Spark)
+- Proficiency in SQL and data modeling (star schema, data vault)
+- Experience with workflow orchestration tools (Apache Airflow or Prefect)
+- Hands-on experience with cloud data platforms (Snowflake, BigQuery, or Redshift)
+- Experience with real-time streaming using Apache Kafka or Kinesis
+- Proficiency with dbt for data transformation
+- Familiarity with Delta Lake or Apache Iceberg lakehouse formats
+
+PREFERRED SKILLS
+- Experience with Databricks platform
+- Scala programming skills
+- Knowledge of data governance, lineage, and metadata management
+- Experience with Terraform for cloud infrastructure provisioning
+- Machine learning workflow experience (feature stores, ML data pipelines)
+- Familiarity with DataOps and data mesh architectures
+
+EDUCATION
+- B.S. or M.S. in Computer Science, Data Engineering, or related field
+- Equivalent practical experience considered
+
+COMPENSATION
+$150,000 – $210,000 base salary + equity + benefits
+

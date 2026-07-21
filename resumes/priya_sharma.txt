@@ -1,0 +1,47 @@
+Priya Sharma
+priya.sharma@email.com | +1-212-555-0202 | New York, NY | linkedin.com/in/priyasharma
+
+SUMMARY
+Data Scientist with 5 years of experience transforming complex datasets into actionable insights. Expert in statistical modeling, machine learning, and data visualization. Track record of delivering data-driven solutions that increased revenue by $2M+ annually.
+
+EXPERIENCE
+Data Scientist — Goldman Sachs, New York, NY (2021 – Present)
+- Built credit risk scoring models using gradient boosting (XGBoost, LightGBM), reducing loan default rate by 12%
+- Designed customer segmentation models using K-means and hierarchical clustering for targeted marketing campaigns
+- Created interactive dashboards in Tableau and Power BI reporting to C-suite stakeholders
+- Collaborated with engineering teams to deploy models via REST APIs using Flask and Docker
+
+Data Analyst — McKinsey & Company, New York, NY (2019 – 2021)
+- Performed statistical analysis and hypothesis testing on market research data using Python and R
+- Built predictive models with scikit-learn achieving 87% accuracy in customer churn prediction
+- Automated data extraction and transformation using SQL and Python scripts, saving 15 hours/week
+- Presented findings and visualizations to senior clients using Tableau and Excel
+
+Junior Data Scientist — Verizon Media, New York, NY (2018 – 2019)
+- Developed A/B testing framework to evaluate ad targeting algorithm performance
+- Analyzed clickstream data using Apache Spark and pandas
+- Built user behavior models using collaborative filtering for content recommendation
+
+SKILLS
+Programming: Python, R, SQL, Scala
+ML Libraries: scikit-learn, XGBoost, LightGBM, statsmodels, scipy, Pandas, NumPy
+Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+Cloud & Data: AWS, Snowflake, PostgreSQL, MySQL, Apache Spark
+Tools: Jupyter, Git, JIRA, Excel, Agile
+
+EDUCATION
+M.S. in Statistics
+Columbia University, New York, 2018
+
+B.S. in Mathematics
+University of Mumbai, India, 2016
+
+PROJECTS
+Customer Lifetime Value Prediction: Deployed Bayesian LTV model for e-commerce client, improving marketing ROI by 23%.
+Fraud Detection System: Built ensemble classifier for transaction fraud with 99.2% AUC, handling 10K TPS.
+
+CERTIFICATIONS
+Certified Analytics Professional (CAP), 2022
+Google Data Analytics Certificate, 2021
+Tableau Desktop Specialist, 2020
+

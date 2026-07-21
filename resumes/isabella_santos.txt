@@ -1,0 +1,50 @@
+Isabella Santos
+isabella.santos@email.com | +1-415-555-1717 | San Francisco, CA | github.com/isabellasantos | linkedin.com/in/isabellasantos-mlops
+
+SUMMARY
+MLOps Engineer with 5 years of experience building and operationalizing machine learning platforms. Specializes in model deployment, monitoring, and lifecycle management using MLflow, Kubeflow, and GCP. Reduced model deployment cycle from 2 weeks to 4 hours at a Fortune 500 company.
+
+EXPERIENCE
+Senior MLOps Engineer — Lyft, San Francisco, CA (2021 – Present)
+- Designed ML platform on GCP (Vertex AI + Kubeflow) powering 45 production ML models
+- Built automated model retraining pipelines triggered by data drift detection using Evidently AI
+- Implemented model registries with MLflow, enabling experiment comparison and reproducible deployments
+- Created Kubernetes-based model serving infrastructure handling 2M daily predictions with P99 < 50ms
+- Built CI/CD pipelines for ML models using GitHub Actions and Argo Workflows
+
+MLOps / ML Engineer — LinkedIn, Sunnyvale, CA (2019 – 2021)
+- Developed scalable feature stores using Feast serving 500+ ML features in real-time
+- Automated data preprocessing pipelines with Apache Beam and Airflow
+- Built monitoring dashboards in Grafana tracking model performance drift
+- Collaborated with data scientists to containerize and productionize 20+ research models
+
+Data Engineer — Intuit, Mountain View, CA (2018 – 2019)
+- Built Python ETL pipelines for financial data processing and ML feature engineering
+- Managed GCP Dataflow jobs processing 50GB daily data loads
+
+SKILLS
+MLOps: MLflow, Kubeflow, Vertex AI, Argo Workflows, Feast, Evidently AI, Seldon Core
+Cloud: GCP (Vertex AI, BigQuery, GKE, Cloud Run), AWS, Azure ML
+Container/Orchestration: Docker, Kubernetes, Helm
+Languages: Python, Bash, Go
+ML Frameworks: TensorFlow, PyTorch, scikit-learn
+Data: Apache Spark, Airflow, BigQuery, dbt, PostgreSQL
+CI/CD: GitHub Actions, Jenkins, ArgoCD
+
+EDUCATION
+M.S. in Computer Science (Machine Learning)
+UC San Diego, 2018
+
+B.S. in Statistics
+University of São Paulo, Brazil, 2016
+
+PROJECTS
+AutoRetrain: Open-source MLOps framework for automated model retraining with drift detection.
+ML Shadow Deployment: Library enabling shadow mode A/B testing for ML models at inference time.
+
+CERTIFICATIONS
+Google Professional ML Engineer (2022)
+Databricks Certified ML Professional (2021)
+Certified Kubernetes Administrator (CKA), 2020
+AWS Machine Learning – Specialty (2021)
+

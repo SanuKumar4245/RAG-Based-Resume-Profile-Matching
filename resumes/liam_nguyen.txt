@@ -1,0 +1,49 @@
+Liam Nguyen
+liam.nguyen@email.com | +1-312-555-0909 | Chicago, IL | github.com/liamnguyen | linkedin.com/in/liamnguyen-data
+
+SUMMARY
+Data Engineer with 5 years of experience building robust data pipelines and lake architectures. Expert in Apache Spark, Airflow, Snowflake, and dbt. Designed data infrastructure supporting petabyte-scale analytics and real-time streaming platforms.
+
+EXPERIENCE
+Senior Data Engineer — United Airlines, Chicago, IL (2021 – Present)
+- Architected real-time flight data pipeline processing 2M events/hour using Apache Kafka and Spark Streaming
+- Built Snowflake data warehouse with dbt transformation models, enabling self-serve analytics for 500 business users
+- Migrated on-premises Hadoop cluster to AWS (EMR + S3 + Glue), reducing infrastructure cost by 42%
+- Developed Airflow DAGs for 150+ daily ETL workflows with automated alerting and retry logic
+- Implemented Delta Lake for data versioning and ACID transactions on 50TB dataset
+
+Data Engineer — Morningstar, Chicago, IL (2019 – 2021)
+- Built financial data pipelines ingesting 200+ vendor data feeds in various formats (JSON, CSV, XML, FIX)
+- Created Spark jobs for large-scale financial calculations on EMR clusters
+- Designed star-schema data warehouse in Redshift accessed by Tableau and Looker
+- Automated data quality checks using Great Expectations, catching 98% of data issues pre-production
+
+Junior Data Engineer — Uptake Technologies, Chicago, IL (2018 – 2019)
+- Developed Python ETL scripts for IoT sensor data from industrial machinery
+- Maintained PostgreSQL and MySQL databases supporting ML model feature pipelines
+
+SKILLS
+Languages: Python, Scala, SQL, Bash
+Big Data: Apache Spark, Apache Kafka, Apache Airflow, Hadoop, Hive
+Cloud Data: Snowflake, AWS (EMR, Glue, S3, Redshift), GCP (BigQuery, Dataflow), dbt
+Storage: Delta Lake, Apache Iceberg, PostgreSQL, MySQL, MongoDB
+Streaming: Kafka, Kinesis, Spark Streaming, Flink
+Tools: Git, Docker, JIRA, Airflow, Kubernetes, Terraform
+
+EDUCATION
+M.S. in Data Engineering and Analytics
+Illinois Institute of Technology, 2018
+
+B.S. in Computer Science
+University of Illinois Chicago, 2016
+
+PROJECTS
+Streaming Analytics Platform: Open-source framework for building real-time data pipelines with Kafka and Spark.
+dbt-quality-pack: Collection of dbt macros for automated data quality testing used by 200+ data teams.
+
+CERTIFICATIONS
+Databricks Certified Data Engineer Professional (2022)
+Snowflake SnowPro Core Certification (2021)
+AWS Certified Data Analytics – Specialty (2020)
+Apache Kafka Series – Confluent Certified Developer (2020)
+

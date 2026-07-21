@@ -1,0 +1,50 @@
+Daniel Okafor
+daniel.okafor@email.com | +1-202-555-0707 | Washington, DC | linkedin.com/in/danielokafor
+
+SUMMARY
+Cloud Architect with 10 years of experience designing enterprise-grade multi-cloud architectures across AWS, Azure, and GCP. Expert in cloud security, cost optimization, and digital transformation. Saved clients $15M+ in annual cloud spend through optimization initiatives.
+
+EXPERIENCE
+Principal Cloud Architect — Deloitte Consulting, Washington, DC (2019 – Present)
+- Designed cloud architecture for US federal agency migration, moving 500+ legacy applications to AWS GovCloud
+- Led multi-cloud strategy implementation for Fortune 100 clients across AWS, Azure, and GCP
+- Built landing zone architecture using Terraform and AWS Control Tower for enterprise governance
+- Implemented zero-trust security model using AWS IAM, Azure AD, and HashiCorp Vault
+- Delivered $8M in annual cost savings through reserved instances, spot instances, and architecture optimization
+
+Senior Cloud Engineer — IBM Cloud, Washington, DC (2017 – 2019)
+- Architected hybrid cloud solutions connecting on-premises VMware infrastructure to AWS and Azure
+- Designed disaster recovery architectures with RPO < 4 hours and RTO < 2 hours for banking clients
+- Implemented Security automation using AWS Config, CloudTrail, and Security Hub
+
+Cloud Engineer — Accenture, McLean, VA (2016 – 2017)
+- Managed AWS infrastructure for healthcare SaaS platform serving 200K users
+- Automated infrastructure provisioning with CloudFormation and Ansible
+
+Systems Administrator — General Dynamics, Fairfax, VA (2014 – 2016)
+- Maintained Windows and Linux server environments for 1,000+ endpoints
+- Implemented VMware vSphere virtualization platform
+
+SKILLS
+Cloud: AWS (50+ services), Azure, GCP, OpenStack
+Architecture: Multi-cloud, Hybrid cloud, Microservices, Serverless, Event-driven
+Security: IAM, Zero Trust, SIEM, Penetration Testing, SOC 2, FedRAMP, HIPAA
+IaC: Terraform, CloudFormation, Pulumi, Ansible
+Container: Docker, Kubernetes, EKS, AKS, GKE
+Networking: VPC, BGP, OSPF, Direct Connect, ExpressRoute
+Languages: Python, Bash, Go, PowerShell
+
+EDUCATION
+M.S. in Information Technology Management
+Georgetown University, 2014
+
+B.S. in Computer Science
+Howard University, 2012
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Professional
+Azure Solutions Architect Expert
+Google Professional Cloud Architect
+Certified Information Systems Security Professional (CISSP)
+HashiCorp Certified Terraform Associate
+

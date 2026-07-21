@@ -1,0 +1,46 @@
+Carlos Reyes
+carlos.reyes@email.com | +1-305-555-1111 | Miami, FL | github.com/carlosreyes-ios | linkedin.com/in/carlosreyesdev
+
+SUMMARY
+iOS Developer with 4 years of experience building high-quality native iOS applications using Swift and SwiftUI. Delivered 6 App Store apps with 4.7+ average ratings and 500K+ combined downloads. Expert in MVVM architecture, Core Data, and RESTful API integration.
+
+EXPERIENCE
+iOS Developer — Royal Caribbean Group, Miami, FL (2022 – Present)
+- Built cruise companion app from scratch using SwiftUI and Combine, achieving 4.8 App Store rating with 150K downloads
+- Implemented offline-first architecture using Core Data and CloudKit for seamless onboard connectivity
+- Developed custom animations and transitions using Swift Animations and UIKit for premium UX
+- Integrated REST APIs for booking, dining, and activity reservations with Alamofire and URLSession
+- Led migration from Objective-C legacy codebase to Swift 5.9, reducing crash rate by 72%
+
+iOS Developer — Chewy, Dania Beach, FL (2021 – 2022)
+- Built pet health tracking features in SwiftUI with HealthKit integration
+- Implemented push notifications using APNs for order updates and promotions
+- Optimized app performance through Instruments profiling, reducing memory usage by 35%
+- Wrote unit tests using XCTest achieving 85% code coverage
+
+Junior iOS Developer — Modernizing Medicine, Boca Raton, FL (2020 – 2021)
+- Developed telemedicine features using WebRTC and AVFoundation for video consultations
+- Built HIPAA-compliant data storage using Core Data with encryption
+- Integrated third-party SDKs for payment processing (Stripe) and analytics (Firebase)
+
+SKILLS
+Languages: Swift, Objective-C, Python
+iOS Frameworks: SwiftUI, UIKit, Combine, Core Data, Core Location, HealthKit, ARKit, AVFoundation
+Networking: REST APIs, GraphQL, URLSession, Alamofire, WebSockets
+Tools: Xcode, Instruments, TestFlight, Firebase, Fastlane, Git
+Architecture: MVVM, VIPER, MVC, Clean Architecture
+Testing: XCTest, XCUITest
+Other: Agile, JIRA, Figma, App Store Connect
+
+EDUCATION
+B.S. in Computer Science
+Florida International University, 2020
+
+PROJECTS
+FitTrack Pro: Health and fitness iOS app with ML-based workout recommendations, 80K downloads on App Store.
+AR Furniture: Augmented reality furniture placement app using ARKit and RealityKit.
+
+CERTIFICATIONS
+Apple Developer Certification (2021)
+Firebase in a Weekend – iOS (2020)
+

@@ -1,0 +1,49 @@
+Elena Vasquez
+elena.vasquez@email.com | +1-512-555-0404 | Austin, TX | linkedin.com/in/elenavasquez | github.com/evasquez
+
+SUMMARY
+DevOps Engineer with 7 years of experience building and maintaining large-scale cloud infrastructure. Expert in Kubernetes, Terraform, and CI/CD automation. Reduced infrastructure costs by 35% and improved system uptime to 99.99% at a Fortune 500 company.
+
+EXPERIENCE
+Lead DevOps Engineer — Dell Technologies, Austin, TX (2020 – Present)
+- Architected Kubernetes-based container orchestration platform serving 200+ microservices across 3 AWS regions
+- Led Terraform infrastructure-as-code initiative, enabling repeatable deployments and eliminating configuration drift
+- Built self-service CI/CD pipelines using Jenkins and GitHub Actions, reducing developer deployment wait time by 80%
+- Implemented GitOps workflows with ArgoCD, improving deployment reliability and rollback capabilities
+- Managed Prometheus/Grafana monitoring stack with 300+ custom dashboards and alerting rules
+
+Senior DevOps Engineer — Austin Cloud, Austin, TX (2018 – 2020)
+- Designed multi-cloud architecture across AWS and Azure for enterprise SaaS platform
+- Automated infrastructure provisioning with Ansible and Terraform, reducing manual provisioning time by 90%
+- Implemented security hardening using AWS IAM, VPC design, and secret management with HashiCorp Vault
+- Led disaster recovery planning and achieved RTO of 15 minutes, RPO of 5 minutes
+
+DevOps Engineer — Rackspace, San Antonio, TX (2017 – 2018)
+- Managed Linux server fleet of 500+ nodes, implementing automated patch management
+- Built Docker-based deployment pipeline reducing environment inconsistencies
+- Monitored system performance using Nagios and ELK stack
+
+SKILLS
+Cloud: AWS (EC2, EKS, RDS, S3, Lambda, IAM), Azure, GCP
+Container & Orchestration: Docker, Kubernetes, Helm, ArgoCD
+IaC: Terraform, Ansible, CloudFormation, Pulumi
+CI/CD: Jenkins, GitHub Actions, GitLab CI, Spinnaker
+Monitoring: Prometheus, Grafana, ELK Stack, Datadog
+Languages: Python, Bash, Go
+Security: HashiCorp Vault, AWS IAM, Penetration Testing basics
+Agile: JIRA, Confluence, Scrum
+
+EDUCATION
+B.S. in Information Technology
+University of Texas at Austin, 2017
+
+PROJECTS
+Open-source Terraform Modules: Collection of production-ready AWS Terraform modules with 2,000+ GitHub stars.
+Kubernetes Cost Optimizer: Tool that analyses pod resource usage and recommends right-sizing, saving avg 28% on compute costs.
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA), 2022
+AWS Certified Solutions Architect – Professional (2021)
+HashiCorp Certified: Terraform Associate (2020)
+Linux Foundation Certified System Administrator (LFCS), 2018
+

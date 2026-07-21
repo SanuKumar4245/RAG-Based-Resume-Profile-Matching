@@ -1,0 +1,45 @@
+Oscar Rodriguez
+oscar.rodriguez@email.com | +1-213-555-2222 | Los Angeles, CA | github.com/oscar-gamedev | linkedin.com/in/oscarrodriguez-games
+
+SUMMARY
+Game Developer with 4 years of experience creating engaging games across mobile, PC, and console platforms. Expert in Unity, C#, and shader programming. Published 3 commercial games with 1M+ combined downloads. Strong background in game architecture, performance optimization, and VR/AR development.
+
+EXPERIENCE
+Senior Game Developer — Riot Games, Los Angeles, CA (2022 – Present)
+- Developed gameplay systems for mobile game reaching #1 on App Store games chart
+- Built custom rendering pipeline in Unity using HLSL shaders for stylized visual effects
+- Optimized game performance for mobile achieving stable 60 FPS on mid-range devices
+- Implemented data-driven gameplay balancing system using JSON-based configuration
+- Led tech art collaboration, developing 15 custom shader effects for environment artists
+
+Game Developer — Jam City, Culver City, CA (2021 – 2022)
+- Developed casual puzzle game levels and core mechanics in Unity C# for 5M player game
+- Built procedural level generation system using noise functions and constraint-based placement
+- Integrated analytics SDK (GameAnalytics, Firebase Analytics) for player behavior tracking
+- Implemented in-app purchase flow using Unity IAP and App Store Connect
+
+Junior Game Developer — Survios, Los Angeles, CA (2020 – 2021)
+- Developed interactive VR experiences using Unity and Oculus SDK
+- Implemented hand-tracking and haptic feedback systems for VR controllers
+- Built multiplayer networking using Photon PUN2 for 4-player cooperative VR game
+
+SKILLS
+Engines: Unity (Expert), Unreal Engine 5 (Intermediate)
+Languages: C#, C++, Hlsl, Python
+Graphics: Shader development, HLSL, URP/HDRP, VFX Graph, Blender, Substance Painter
+Platforms: PC, iOS, Android, PlayStation, Oculus, HTC Vive
+Online: Photon, Mirror Networking, PlayFab, Firebase
+Tools: Git, Perforce, JIRA, Agile, ProBuilder, Cinemachine
+
+EDUCATION
+B.S. in Computer Science with Game Design minor
+UCLA, 2020
+
+PROJECTS
+Pixel Dungeon RPG: Roguelike RPG on mobile with procedural generation, 400K downloads on Google Play.
+VR Architecture Visualizer: Real-time VR walkthrough tool for architects using Unity and HTC Vive.
+
+CERTIFICATIONS
+Unity Certified Expert – Programmer (2022)
+Epic Games Unreal Engine 5 Developer (2023)
+

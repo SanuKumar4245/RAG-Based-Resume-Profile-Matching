@@ -1,0 +1,50 @@
+Noah Williamson
+noah.williamson@email.com | +1-206-555-2929 | Seattle, WA | linkedin.com/in/noahwilliamson-data | github.com/nwilliamson
+
+SUMMARY
+Data Platform Engineer with 6 years of experience building modern lakehouse architectures and scalable distributed data systems. Expert in Databricks, Apache Spark, Delta Lake, and Scala. Designed petabyte-scale data platforms supporting 1,000+ concurrent analytics workloads.
+
+EXPERIENCE
+Principal Data Platform Engineer — Tableau (Salesforce), Seattle, WA (2021 – Present)
+- Architected enterprise data lakehouse on Databricks using Delta Lake with ACID transactions
+- Built unified streaming and batch processing platform using Apache Spark and Apache Kafka
+- Developed Scala libraries for custom Spark transformations used across 50+ data pipelines
+- Implemented data catalog using Apache Atlas for 10,000+ datasets and metadata lineage tracking
+- Led cost optimization initiative reducing Databricks compute spend by $1.2M annually
+
+Senior Data Engineer — Expedia Group, Bellevue, WA (2019 – 2021)
+- Built real-time analytics pipeline ingesting 5TB of travel data daily using Spark Streaming and Kafka
+- Migrated legacy Hive-based warehouse to Delta Lake architecture reducing query time by 80%
+- Developed data quality framework using Great Expectations embedded in Airflow DAGs
+- Created Scala-based Spark job framework standardizing 200+ ETL pipeline implementations
+
+Data Engineer — Smartsheet, Bellevue, WA (2018 – 2019)
+- Built Python ETL pipelines loading operational data into Redshift for BI consumption
+- Maintained PostgreSQL and MySQL databases for product analytics applications
+
+SKILLS
+Languages: Scala, Python, SQL, Bash, Java
+Big Data: Apache Spark, Delta Lake, Apache Kafka, Apache Iceberg, Hive
+Platforms: Databricks, AWS EMR, AWS Glue, Snowflake, Azure Synapse
+Orchestration: Apache Airflow, Prefect, Databricks Workflows
+Data Quality: Great Expectations, dbt, Monte Carlo
+Cloud: AWS (S3, EMR, Glue, Redshift, EKS), Azure (ADLS, Synapse), GCP (BigQuery)
+Tools: Git, JIRA, Terraform, Docker, Kubernetes
+
+EDUCATION
+M.S. in Data Science
+University of Washington, 2018
+
+B.S. in Computer Science
+University of Michigan, 2016
+
+PROJECTS
+Delta Lake Migration Toolkit: Open-source library for migrating Hive tables to Delta Lake with lineage preservation.
+Spark Job Optimizer: Static analysis tool detecting inefficient Spark operations before submission.
+
+CERTIFICATIONS
+Databricks Certified Data Engineer Professional (2022)
+Databricks Certified Associate Developer for Apache Spark (2020)
+AWS Certified Data Analytics – Specialty (2021)
+Confluent Certified Developer for Apache Kafka (2021)
+

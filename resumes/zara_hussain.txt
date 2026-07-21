@@ -1,0 +1,50 @@
+Zara Hussain
+zara.hussain@email.com | +1-415-555-3030 | San Francisco, CA | github.com/zarahussain-llm | linkedin.com/in/zarahussain
+
+SUMMARY
+MLOps and LLM Engineer with 4 years of experience building production AI applications with large language models and retrieval-augmented generation systems. Expert in LangChain, OpenAI API, FAISS, and Python. Built enterprise RAG pipelines processing 1M+ documents for Fortune 500 clients.
+
+EXPERIENCE
+LLM Engineer — Weights & Biases, San Francisco, CA (2022 – Present)
+- Built enterprise RAG pipeline using LangChain, FAISS, and OpenAI GPT-4 for customer support automation
+- Developed LLM evaluation framework benchmarking 50+ prompt engineering strategies
+- Created vector embedding pipeline using OpenAI text-embedding-3-large and Pinecone vector DB
+- Implemented LLM guardrails and content filtering system for safe production deployment
+- Designed streaming response API with FastAPI achieving sub-2-second first-token latency
+
+ML Engineer — Slack (Salesforce), San Francisco, CA (2021 – 2022)
+- Built semantic search for Slack message archive using sentence-transformers and FAISS
+- Developed NLP classification models for customer support ticket routing (95% accuracy)
+- Created automated data pipeline for fine-tuning domain-specific language models
+- Implemented CI/CD for ML models using MLflow and GitHub Actions
+
+Junior ML Engineer — Yelp, San Francisco, CA (2020 – 2021)
+- Built review spam detection model using Python, scikit-learn, and NLP features
+- Developed review sentiment analysis API using BERT fine-tuning in PyTorch
+- Deployed models using Docker and Flask on AWS EC2
+
+SKILLS
+LLM: LangChain, OpenAI API, GPT-4, LLaMA, Mistral, Claude API, prompt engineering, RAG, fine-tuning
+Vector Databases: FAISS, Pinecone, ChromaDB, Weaviate, Qdrant
+ML/NLP: HuggingFace, sentence-transformers, BERT, PyTorch, scikit-learn
+MLOps: MLflow, Docker, Kubernetes, GitHub Actions, AWS SageMaker
+Languages: Python, SQL, Bash
+Cloud: AWS, GCP, Azure
+APIs: FastAPI, Flask, REST APIs, OpenAPI
+
+EDUCATION
+M.S. in Computer Science (AI)
+UC Berkeley, 2020
+
+B.S. in Computer Science
+Lahore University of Management Sciences (LUMS), Pakistan, 2018
+
+PROJECTS
+DocuAI: Open-source RAG framework for enterprise document Q&A using LangChain and ChromaDB, 3,000+ GitHub stars.
+LLM Benchmark Suite: Evaluation harness for comparing LLM performance on domain-specific tasks.
+
+CERTIFICATIONS
+DeepLearning.AI: LangChain for LLM Application Development (2023)
+Coursera: Generative AI with LLMs – AWS & deeplearning.ai (2023)
+AWS Certified Machine Learning – Specialty (2022)
+

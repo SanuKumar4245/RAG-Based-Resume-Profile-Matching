@@ -1,0 +1,45 @@
+Jordan Lee
+jordan.lee@email.com | +1-206-555-0303 | Seattle, WA | github.com/jordanlee | linkedin.com/in/jordanlee
+
+SUMMARY
+Full Stack Developer with 6 years of experience building scalable web applications from end-to-end. Skilled in React, Node.js, TypeScript, and cloud infrastructure. Passionate about clean code, performance optimization, and great user experiences.
+
+EXPERIENCE
+Senior Full Stack Developer — Amazon Web Services (AWS), Seattle, WA (2021 – Present)
+- Built internal developer portal using React, TypeScript, and Node.js serving 15,000+ engineers
+- Designed GraphQL APIs replacing legacy REST endpoints, reducing data over-fetching by 45%
+- Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline, reducing deployment time from 1 hour to 8 minutes
+- Led microservices migration from monolith, improving system reliability to 99.98% uptime
+- Conducted 50+ technical interviews and drove frontend architecture decisions
+
+Full Stack Developer — Expedia Group, Seattle, WA (2019 – 2021)
+- Developed hotel booking flow using React and Redux, contributing to $50M in incremental revenue
+- Built Node.js backend services with Express.js and PostgreSQL for search and availability APIs
+- Implemented real-time price updates via WebSockets, improving conversion rate by 8%
+- Optimized frontend performance through code splitting and lazy loading (Lighthouse score 94+)
+
+Junior Developer — Redfin, Seattle, WA (2018 – 2019)
+- Built responsive real estate listing pages using React and CSS-in-JS (styled-components)
+- Created Node.js microservices deployed on AWS Lambda
+- Integrated Google Maps API for property location features
+
+SKILLS
+Frontend: React, TypeScript, JavaScript, Vue.js, HTML5, CSS3, Redux, GraphQL, Webpack
+Backend: Node.js, Express, REST APIs, GraphQL, Python
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform
+Testing: Jest, React Testing Library, Cypress, Selenium
+Tools: Git, JIRA, Agile, Figma
+
+EDUCATION
+B.S. in Computer Science
+University of Washington, Seattle, 2018
+
+PROJECTS
+Open-source UI Component Library: 1,200+ GitHub stars. Built with React and TypeScript, used by 30+ companies.
+Real-time Collaboration Tool: Built collaborative whiteboard app using WebRTC and Canvas API.
+
+CERTIFICATIONS
+AWS Certified Developer – Associate (2022)
+Meta React Developer Certificate (2021)
+
